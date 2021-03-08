@@ -1,9 +1,13 @@
 package com.example.greenscreen.ui.login
 
+import android.content.Intent
 import androidx.lifecycle.LiveData
 import androidx.lifecycle.MutableLiveData
 import androidx.lifecycle.ViewModel
 import android.util.Patterns
+import android.widget.Button
+import androidx.core.content.ContextCompat.startActivity
+import com.example.greenscreen.AfterLogin
 import com.example.greenscreen.data.LoginRepository
 import com.example.greenscreen.data.Result
 
@@ -16,6 +20,7 @@ class LoginViewModel(private val loginRepository: LoginRepository) : ViewModel()
 
     private val _loginResult = MutableLiveData<LoginResult>()
     val loginResult: LiveData<LoginResult> = _loginResult
+
 
     fun login(username: String, password: String) {
         // can be launched in a separate asynchronous job

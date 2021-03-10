@@ -13,18 +13,18 @@ class Adapter(fm: FragmentManager) : FragmentStatePagerAdapter(fm) {
 
     override fun getItem(position: Int): Fragment {
         when (position) {
-            1 -> return HalfGaugeFragment.newInstance()
+            0 -> return HalfGaugeFragment.newInstance()
         }
         return HalfGaugeFragment.newInstance()
     }
 
     override fun getCount(): Int {
-        return 4
+        return 1
     }
 
     override fun getPageTitle(position: Int): CharSequence? {
         when (position) {
-            1 -> return "HalfGauge"
+            0 -> return "HalfGauge"
         }
         return "Title"
     }

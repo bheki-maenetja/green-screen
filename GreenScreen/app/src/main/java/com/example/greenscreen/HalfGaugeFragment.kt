@@ -22,7 +22,7 @@ class HalfGaugeFragment : Fragment() {
         return inflater.inflate(R.layout.activity_your_greenscore, container, false)
     }
 
-    override fun onViewCreated(view: View, savedInstanceState: Bundle?) {
+     override fun onViewCreated(view: View, savedInstanceState: Bundle?) {
         super.onViewCreated(view, savedInstanceState)
 
 

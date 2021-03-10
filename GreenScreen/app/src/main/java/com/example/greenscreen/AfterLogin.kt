@@ -32,6 +32,13 @@ class AfterLogin : AppCompatActivity() {
             scanner.setBeepEnabled(false)
             scanner.initiateScan()
         }
+
+        val plan_your_travel = findViewById<Button>(R.id.plan_your_travel)
+        //scan button
+        plan_your_travel.setOnClickListener {
+            val intent = Intent(this@AfterLogin, PlanYourTravel::class.java)
+            startActivity(intent)
+        }
     }
 
 

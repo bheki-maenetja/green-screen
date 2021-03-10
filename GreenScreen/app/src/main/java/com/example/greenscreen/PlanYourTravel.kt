@@ -3,11 +3,9 @@ package com.example.greenscreen
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 
-class main_fragment : AppCompatActivity() {
+class PlanYourTravel : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
-        setContentView(R.layout.main_fragment)
+        setContentView(R.layout.activity_plan_your_travel)
     }
-  
-
 }

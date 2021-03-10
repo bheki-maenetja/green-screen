@@ -9,7 +9,8 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.GreenScreen">
-        <activity android:name=".main_fragment"></activity>
+        <activity android:name=".PlanYourTravel"></activity>
+        <activity android:name=".MainFragment" />
         <activity android:name=".yourGreenscore" />
         <activity android:name=".yourGreenscreen" />
         <activity android:name=".AfterLogin" />

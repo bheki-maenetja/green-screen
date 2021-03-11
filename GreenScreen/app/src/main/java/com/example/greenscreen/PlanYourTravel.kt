@@ -33,7 +33,7 @@ class PlanYourTravel : AppCompatActivity() {
         etDestination = findViewById(R.id.et_destination)
         textView = findViewById(R.id.text_view)
         //Initialize places
-        Places.initialize(application, "AIzaSyBcLPTM2JYqe5r5DxZCwocLlYQ3FZgQuSg")
+        Places.initialize(application, "AIzaSyCNvmfYxCX95iJpleZUcIP8WLcXcDRa4vY")
         etSource?.setFocusable(false)
 
         //Set edit text non focusable

@@ -6,6 +6,8 @@ import android.view.View
 import android.widget.EditText
 import android.widget.TextView
 import android.widget.Toast
+import androidx.activity.result.ActivityResult
+import androidx.activity.result.contract.ActivityResultContracts
 import androidx.appcompat.app.AppCompatActivity
 import com.google.android.libraries.places.api.Places
 import com.google.android.libraries.places.api.model.Place
@@ -61,19 +63,21 @@ class PlanYourTravel : AppCompatActivity() {
                 AutocompleteActivityMode.OVERLAY, fields
             ).build(this@PlanYourTravel)
             //Start activity result
-            startActivityForResult(intent, 100)
+            registerForActivityResult(ActivityResultContracts.StartActivityForResult()) { result ->
+                onActivityResult(100, result)
+            }.launch(intent)
         })
         //Set text on text view
         textView?.setText("0.0 Kilometers")
     }
 
-    override fun onActivityResult(requestCode: Int, resultCode: Int, data: Intent?) {
-        super.onActivityResult(requestCode, resultCode, data)
+    fun onActivityResult(requestCode: Int, result: ActivityResult) {
         //Check condition
-        if (requestCode == 100 && resultCode == RESULT_OK) {
+        if (requestCode == 100 && result.resultCode == RESULT_OK) {
+            val intent = result.data
             //When succes
             //Initialize place
-            val place = Autocomplete.getPlaceFromIntent(data!!)
+            val place = Autocomplete.getPlaceFromIntent(intent!!)
             //Check condition
             if (sType == "source") {
                 //When type is source
@@ -110,7 +114,7 @@ class PlanYourTravel : AppCompatActivity() {
                 distance(lat1, long1, lat2, long2)
             } else if (requestCode == AutocompleteActivity.RESULT_ERROR) {
                 val status = Autocomplete.getStatusFromIntent(
-                    data
+                    intent
                 )
                 Toast.makeText(applicationContext, status.statusMessage, Toast.LENGTH_SHORT).show()
             }

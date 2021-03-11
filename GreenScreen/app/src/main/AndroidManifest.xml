@@ -10,9 +10,8 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.GreenScreen">
         <activity android:name=".PlanYourTravel"></activity>
-        <activity android:name=".MainFragment" />
-        <activity android:name=".yourGreenscore" />
-        <activity android:name=".yourGreenscreen" />
+        <activity android:name=".MainActivityTravel"/>
+        <activity android:name=".yourGreenscore.yourGreenscore" />
         <activity android:name=".AfterLogin" />
         <activity
             android:name=".ui.login.LoginActivity"

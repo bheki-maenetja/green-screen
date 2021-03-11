@@ -26,6 +26,8 @@ class PlanYourTravel : AppCompatActivity() {
     var lat2 = 0.0
     var long2 = 0.0
     var flag = 0
+
+
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_plan_your_travel)
@@ -63,18 +65,21 @@ class PlanYourTravel : AppCompatActivity() {
                 AutocompleteActivityMode.OVERLAY, fields
             ).build(this@PlanYourTravel)
             //Start activity result
-            registerForActivityResult(ActivityResultContracts.StartActivityForResult()) { result ->
+            startActivityForResult(intent, 100)
+          /* registerForActivityResult(ActivityResultContracts.StartActivityForResult()) { result ->
                 onActivityResult(100, result)
-            }.launch(intent)
+            }.launch(intent) <---- alternative method to startActivityForResult (it doesn't work)*/
         })
         //Set text on text view
         textView?.setText("0.0 Kilometers")
     }
 
-    fun onActivityResult(requestCode: Int, result: ActivityResult) {
+
+    override fun onActivityResult(requestCode: Int,resultCode: Int,data: Intent?) {
+        super.onActivityResult(requestCode, resultCode, data)
         //Check condition
-        if (requestCode == 100 && result.resultCode == RESULT_OK) {
-            val intent = result.data
+        if (requestCode == 100 && resultCode == RESULT_OK ) {
+            val intent = data
             //When succes
             //Initialize place
             val place = Autocomplete.getPlaceFromIntent(intent!!)
@@ -114,7 +119,7 @@ class PlanYourTravel : AppCompatActivity() {
                 distance(lat1, long1, lat2, long2)
             } else if (requestCode == AutocompleteActivity.RESULT_ERROR) {
                 val status = Autocomplete.getStatusFromIntent(
-                    intent
+                    data
                 )
                 Toast.makeText(applicationContext, status.statusMessage, Toast.LENGTH_SHORT).show()
             }
@@ -126,10 +131,10 @@ class PlanYourTravel : AppCompatActivity() {
         val longDiff = long1 - long2
         //Calculate distance
         var distance = Math.sin(deg2rad(lat1))
-        Math.sin(deg2rad(lat2))
-        Math.cos(deg2rad(lat1))
-        Math.cos(deg2rad(lat2))
-        Math.cos(deg2rad(longDiff))
+            Math.sin(deg2rad(lat2))
+            Math.cos(deg2rad(lat1))
+            Math.cos(deg2rad(lat2))
+            Math.cos(deg2rad(longDiff))
         distance = Math.acos(distance)
         distance = rad2deg(distance)
         distance = distance * 60 * 1.1515

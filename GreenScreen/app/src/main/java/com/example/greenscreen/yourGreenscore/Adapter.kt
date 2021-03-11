@@ -1,12 +1,11 @@
 @file:Suppress("DEPRECATION")
 
-package com.example.greenscreen
+package com.example.greenscreen.yourGreenscore
 
 import androidx.fragment.app.Fragment
 import androidx.fragment.app.FragmentManager
 import androidx.fragment.app.FragmentStatePagerAdapter
-import com.ekn.gruzer.gaugelibrary.FullGauge
-import com.example.greenscreen.HalfGaugeFragment
+import com.example.greenscreen.yourGreenscore.HalfGaugeFragment
 
 class Adapter(fm: FragmentManager) : FragmentStatePagerAdapter(fm) {
 

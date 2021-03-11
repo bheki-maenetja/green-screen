@@ -1,4 +1,4 @@
-package com.example.greenscreen
+package com.example.greenscreen.yourGreenscore
 
 import android.graphics.Color
 import android.os.Bundle
@@ -7,7 +7,6 @@ import android.view.View
 import android.view.ViewGroup
 import androidx.fragment.app.Fragment
 import com.ekn.gruzer.gaugelibrary.Range
-import com.ekn.gruzer.gaugelibrary.contract.ValueFormatter
 import com.example.greenscreen.R
 import kotlinx.android.synthetic.main.activity_your_greenscore.*
 

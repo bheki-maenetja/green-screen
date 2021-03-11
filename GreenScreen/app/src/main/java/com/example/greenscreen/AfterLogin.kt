@@ -4,13 +4,11 @@ import android.app.Activity
 import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
-import android.view.View
 import android.widget.Button
 import android.widget.Toast
 import android.widget.Toast.*
-import com.example.greenscreen.ui.login.LoginViewModel
+import com.example.greenscreen.yourGreenscore.yourGreenscore
 import com.google.zxing.integration.android.IntentIntegrator
-import com.google.zxing.integration.android.IntentResult
 
 class AfterLogin : AppCompatActivity() {
 
@@ -36,7 +34,7 @@ class AfterLogin : AppCompatActivity() {
         val plan_your_travel = findViewById<Button>(R.id.plan_your_travel)
         //scan button
         plan_your_travel.setOnClickListener {
-            val intent = Intent(this@AfterLogin, PlanYourTravel::class.java)
+            val intent = Intent(this@AfterLogin,PlanYourTravel::class.java)
             startActivity(intent)
         }
     }

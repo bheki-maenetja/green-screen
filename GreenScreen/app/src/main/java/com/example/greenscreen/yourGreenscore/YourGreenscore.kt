@@ -1,8 +1,8 @@
-package com.example.greenscreen
+package com.example.greenscreen.yourGreenscore
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
-import com.example.greenscreen.MainFragment.*
+import com.example.greenscreen.R
 
 class yourGreenscore : AppCompatActivity() {
 

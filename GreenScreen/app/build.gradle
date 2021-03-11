@@ -58,7 +58,8 @@ dependencies {
     implementation 'org.hibernate:hibernate-validator:4.2.0.Final'
     //noinspection GradleCompatible
     implementation 'com.android.support:design:26.0.2'
-    implementation "androidx.viewpager:viewpager:1.0.0"
+    implementation 'androidx.viewpager:viewpager:1.0.0'
+    implementation 'com.google.android.libraries.places:places:2.4.0'
 
 
 }

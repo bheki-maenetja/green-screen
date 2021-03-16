@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "artifactType": {
+    "type": "MERGED_MANIFESTS",
+    "kind": "Directory"
+  },
+  "applicationId": "com.example.greenscreen",
+  "variantName": "debug",
+  "elements": [
+    {
+      "type": "SINGLE",
+      "filters": [],
+      "versionCode": 1,
+      "versionName": "1.4.31",
+      "outputFile": "AndroidManifest.xml"
+    }
+  ]
+}

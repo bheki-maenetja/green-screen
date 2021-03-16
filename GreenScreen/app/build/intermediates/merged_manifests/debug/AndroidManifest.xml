@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.greenscreen"
+    android:versionCode="1"
+    android:versionName="1.4.31" >
+
+    <uses-sdk
+        android:minSdkVersion="24"
+        android:targetSdkVersion="30" />
+
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.CAMERA" /> <!-- Don't require camera, as this requires a rear camera. This allows it to work on the Nexus 7 -->
+    <uses-feature
+        android:name="android.hardware.camera"
+        android:required="false" />
+    <uses-feature
+        android:name="android.hardware.camera.front"
+        android:required="false" /> <!-- TODO replace above two with next line after Android 4.2 -->
+    <!-- <uses-feature android:name="android.hardware.camera.any"/> -->
+    <uses-feature
+        android:name="android.hardware.camera.autofocus"
+        android:required="false" />
+    <uses-feature
+        android:name="android.hardware.camera.flash"
+        android:required="false" />
+    <uses-feature
+        android:name="android.hardware.screen.landscape"
+        android:required="false" />
+    <uses-feature
+        android:name="android.hardware.wifi"
+        android:required="false" /> <!-- Include required permissions for Google Maps API to run. -->
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+
+    <uses-feature
+        android:glEsVersion="0x00020000"
+        android:required="true" />
+
+    <application
+        android:allowBackup="true"
+        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+        android:debuggable="true"
+        android:extractNativeLibs="false"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:testOnly="true"
+        android:theme="@style/Theme.GreenScreen" >
+        <activity android:name="com.example.greenscreen.vehicles.Walk" />
+        <activity android:name="com.example.greenscreen.vehicles.Car" />
+        <activity android:name="com.example.greenscreen.vehicles.Cycle" />
+        <activity android:name="com.example.greenscreen.vehicles.Plane" />
+        <activity android:name="com.example.greenscreen.vehicles.Bus" />
+        <activity android:name="com.example.greenscreen.vehicles.Train" />
+        <activity android:name="com.example.greenscreen.Scan.ScanBarcode" />
+        <activity android:name="com.example.greenscreen.CaptureActivity" />
+        <activity android:name="com.example.greenscreen.PlanYourTravel" />
+        <activity android:name="com.example.greenscreen.MainActivityTravel" />
+        <activity android:name="com.example.greenscreen.yourGreenscore.yourGreenscore" />
+        <activity android:name="com.example.greenscreen.AfterLogin" />
+        <activity
+            android:name="com.example.greenscreen.ui.login.LoginActivity"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.example.greenscreen.Scan.Pop"
+            android:theme="@style/Theme.GreenScreen.CustomTheme" />
+        <activity
+            android:name="com.google.android.libraries.places.widget.AutocompleteActivity"
+            android:exported="false"
+            android:label="@string/places_autocomplete_label"
+            android:theme="@style/PlacesAutocompleteOverlay"
+            android:windowSoftInputMode="adjustResize" >
+        </activity>
+        <activity
+            android:name="com.journeyapps.barcodescanner.CaptureActivity"
+            android:clearTaskOnLaunch="true"
+            android:screenOrientation="sensorLandscape"
+            android:stateNotNeeded="true"
+            android:theme="@style/zxing_CaptureTheme"
+            android:windowSoftInputMode="stateAlwaysHidden" /> <!-- Needs to be explicitly declared on P+ -->
+        <uses-library
+            android:name="org.apache.http.legacy"
+            android:required="false" />
+
+        <activity
+            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+            android:exported="false"
+            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+
+        <meta-data
+            android:name="com.google.android.gms.version"
+            android:value="@integer/google_play_services_version" />
+
+        <service
+            android:name="com.google.android.datatransport.runtime.backends.TransportBackendDiscovery"
+            android:exported="false" >
+            <meta-data
+                android:name="backend:com.google.android.datatransport.cct.CctBackendFactory"
+                android:value="cct" />
+        </service>
+        <service
+            android:name="com.google.android.datatransport.runtime.scheduling.jobscheduling.JobInfoSchedulerService"
+            android:exported="false"
+            android:permission="android.permission.BIND_JOB_SERVICE" >
+        </service>
+
+        <receiver
+            android:name="com.google.android.datatransport.runtime.scheduling.jobscheduling.AlarmManagerSchedulerBroadcastReceiver"
+            android:exported="false" />
+
+        <provider
+            android:name="androidx.lifecycle.ProcessLifecycleOwnerInitializer"
+            android:authorities="com.example.greenscreen.lifecycle-process"
+            android:exported="false"
+            android:multiprocess="true" />
+    </application>
+
+</manifest>

@@ -1,0 +1,158 @@
+[
+    {
+        "merged": "C:\\Users\\Sevi\\Documents\\GitHub\\HackLboro-Team-3\\GreenScreen\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Sevi\\Documents\\GitHub\\HackLboro-Team-3\\GreenScreen\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Sevi\\Documents\\GitHub\\HackLboro-Team-3\\GreenScreen\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_plan_your_travel.xml.flat",
+        "source": "C:\\Users\\Sevi\\Documents\\GitHub\\HackLboro-Team-3\\GreenScreen\\app\\src\\main\\res\\layout\\activity_plan_your_travel.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sevi\\Documents\\GitHub\\HackLboro-Team-3\\GreenScreen\\app\\build\\intermediates\\res\\merged\\debug\\drawable_logo.xml.flat",
+        "source": "C:\\Users\\Sevi\\Documents\\GitHub\\HackLboro-Team-3\\GreenScreen\\app\\src\\main\\res\\drawable\\logo.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sevi\\Documents\\GitHub\\HackLboro-Team-3\\GreenScreen\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_car.xml.flat",
+        "source": "C:\\Users\\Sevi\\Documents\\GitHub\\HackLboro-Team-3\\GreenScreen\\app\\src\\main\\res\\layout\\activity_car.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sevi\\Documents\\GitHub\\HackLboro-Team-3\\GreenScreen\\app\\build\\intermediates\\res\\merged\\debug\\drawable_gradient_background.xml.flat",
+        "source": "C:\\Users\\Sevi\\Documents\\GitHub\\HackLboro-Team-3\\GreenScreen\\app\\src\\main\\res\\drawable\\gradient_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sevi\\Documents\\GitHub\\HackLboro-Team-3\\GreenScreen\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_launcher_logo_good_background.xml.flat",
+        "source": "C:\\Users\\Sevi\\Documents\\GitHub\\HackLboro-Team-3\\GreenScreen\\app\\src\\main\\res\\drawable\\ic_launcher_logo_good_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sevi\\Documents\\GitHub\\HackLboro-Team-3\\GreenScreen\\app\\build\\intermediates\\res\\merged\\debug\\drawable_clipart1572648.png.flat",
+        "source": "C:\\Users\\Sevi\\Documents\\GitHub\\HackLboro-Team-3\\GreenScreen\\app\\src\\main\\res\\drawable\\clipart1572648.png"
+    },
+    {
+        "merged": "C:\\Users\\Sevi\\Documents\\GitHub\\HackLboro-Team-3\\GreenScreen\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_scan.xml.flat",
+        "source": "C:\\Users\\Sevi\\Documents\\GitHub\\HackLboro-Team-3\\GreenScreen\\app\\src\\main\\res\\layout\\activity_scan.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sevi\\Documents\\GitHub\\HackLboro-Team-3\\GreenScreen\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Sevi\\Documents\\GitHub\\HackLboro-Team-3\\GreenScreen\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Sevi\\Documents\\GitHub\\HackLboro-Team-3\\GreenScreen\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Sevi\\Documents\\GitHub\\HackLboro-Team-3\\GreenScreen\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Sevi\\Documents\\GitHub\\HackLboro-Team-3\\GreenScreen\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_logo_good_foreground.png.flat",
+        "source": "C:\\Users\\Sevi\\Documents\\GitHub\\HackLboro-Team-3\\GreenScreen\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_logo_good_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Sevi\\Documents\\GitHub\\HackLboro-Team-3\\GreenScreen\\app\\build\\intermediates\\res\\merged\\debug\\drawable_clipart3011315.png.flat",
+        "source": "C:\\Users\\Sevi\\Documents\\GitHub\\HackLboro-Team-3\\GreenScreen\\app\\src\\main\\res\\drawable\\clipart3011315.png"
+    },
+    {
+        "merged": "C:\\Users\\Sevi\\Documents\\GitHub\\HackLboro-Team-3\\GreenScreen\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_login.xml.flat",
+        "source": "C:\\Users\\Sevi\\Documents\\GitHub\\HackLboro-Team-3\\GreenScreen\\app\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sevi\\Documents\\GitHub\\HackLboro-Team-3\\GreenScreen\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_train.xml.flat",
+        "source": "C:\\Users\\Sevi\\Documents\\GitHub\\HackLboro-Team-3\\GreenScreen\\app\\src\\main\\res\\layout\\activity_train.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sevi\\Documents\\GitHub\\HackLboro-Team-3\\GreenScreen\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_logo_good_foreground.png.flat",
+        "source": "C:\\Users\\Sevi\\Documents\\GitHub\\HackLboro-Team-3\\GreenScreen\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_logo_good_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Sevi\\Documents\\GitHub\\HackLboro-Team-3\\GreenScreen\\app\\build\\intermediates\\res\\merged\\debug\\layout_planyourtravelpopup.xml.flat",
+        "source": "C:\\Users\\Sevi\\Documents\\GitHub\\HackLboro-Team-3\\GreenScreen\\app\\src\\main\\res\\layout\\planyourtravelpopup.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sevi\\Documents\\GitHub\\HackLboro-Team-3\\GreenScreen\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Sevi\\Documents\\GitHub\\HackLboro-Team-3\\GreenScreen\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Sevi\\Documents\\GitHub\\HackLboro-Team-3\\GreenScreen\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_cycle.xml.flat",
+        "source": "C:\\Users\\Sevi\\Documents\\GitHub\\HackLboro-Team-3\\GreenScreen\\app\\src\\main\\res\\layout\\activity_cycle.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sevi\\Documents\\GitHub\\HackLboro-Team-3\\GreenScreen\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_walk.xml.flat",
+        "source": "C:\\Users\\Sevi\\Documents\\GitHub\\HackLboro-Team-3\\GreenScreen\\app\\src\\main\\res\\layout\\activity_walk.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sevi\\Documents\\GitHub\\HackLboro-Team-3\\GreenScreen\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Sevi\\Documents\\GitHub\\HackLboro-Team-3\\GreenScreen\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Sevi\\Documents\\GitHub\\HackLboro-Team-3\\GreenScreen\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Sevi\\Documents\\GitHub\\HackLboro-Team-3\\GreenScreen\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Sevi\\Documents\\GitHub\\HackLboro-Team-3\\GreenScreen\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_logo_good_foreground.png.flat",
+        "source": "C:\\Users\\Sevi\\Documents\\GitHub\\HackLboro-Team-3\\GreenScreen\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_logo_good_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Sevi\\Documents\\GitHub\\HackLboro-Team-3\\GreenScreen\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_bus.xml.flat",
+        "source": "C:\\Users\\Sevi\\Documents\\GitHub\\HackLboro-Team-3\\GreenScreen\\app\\src\\main\\res\\layout\\activity_bus.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sevi\\Documents\\GitHub\\HackLboro-Team-3\\GreenScreen\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\Sevi\\Documents\\GitHub\\HackLboro-Team-3\\GreenScreen\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sevi\\Documents\\GitHub\\HackLboro-Team-3\\GreenScreen\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\Sevi\\Documents\\GitHub\\HackLboro-Team-3\\GreenScreen\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sevi\\Documents\\GitHub\\HackLboro-Team-3\\GreenScreen\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_logo_good_foreground.png.flat",
+        "source": "C:\\Users\\Sevi\\Documents\\GitHub\\HackLboro-Team-3\\GreenScreen\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_logo_good_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Sevi\\Documents\\GitHub\\HackLboro-Team-3\\GreenScreen\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_after_login2.xml.flat",
+        "source": "C:\\Users\\Sevi\\Documents\\GitHub\\HackLboro-Team-3\\GreenScreen\\app\\src\\main\\res\\layout\\activity_after_login2.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sevi\\Documents\\GitHub\\HackLboro-Team-3\\GreenScreen\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Sevi\\Documents\\GitHub\\HackLboro-Team-3\\GreenScreen\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Sevi\\Documents\\GitHub\\HackLboro-Team-3\\GreenScreen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\Sevi\\Documents\\GitHub\\HackLboro-Team-3\\GreenScreen\\app\\src\\main\\res\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sevi\\Documents\\GitHub\\HackLboro-Team-3\\GreenScreen\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\Sevi\\Documents\\GitHub\\HackLboro-Team-3\\GreenScreen\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sevi\\Documents\\GitHub\\HackLboro-Team-3\\GreenScreen\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_logo_good_foreground.png.flat",
+        "source": "C:\\Users\\Sevi\\Documents\\GitHub\\HackLboro-Team-3\\GreenScreen\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_logo_good_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Sevi\\Documents\\GitHub\\HackLboro-Team-3\\GreenScreen\\app\\build\\intermediates\\res\\merged\\debug\\drawable_indicator.png.flat",
+        "source": "C:\\Users\\Sevi\\Documents\\GitHub\\HackLboro-Team-3\\GreenScreen\\app\\src\\main\\res\\drawable\\indicator.png"
+    },
+    {
+        "merged": "C:\\Users\\Sevi\\Documents\\GitHub\\HackLboro-Team-3\\GreenScreen\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Sevi\\Documents\\GitHub\\HackLboro-Team-3\\GreenScreen\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Sevi\\Documents\\GitHub\\HackLboro-Team-3\\GreenScreen\\app\\build\\intermediates\\res\\merged\\debug\\layout_pop_window.xml.flat",
+        "source": "C:\\Users\\Sevi\\Documents\\GitHub\\HackLboro-Team-3\\GreenScreen\\app\\src\\main\\res\\layout\\pop_window.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sevi\\Documents\\GitHub\\HackLboro-Team-3\\GreenScreen\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Sevi\\Documents\\GitHub\\HackLboro-Team-3\\GreenScreen\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Sevi\\Documents\\GitHub\\HackLboro-Team-3\\GreenScreen\\app\\build\\intermediates\\res\\merged\\debug\\layout_main_fragment.xml.flat",
+        "source": "C:\\Users\\Sevi\\Documents\\GitHub\\HackLboro-Team-3\\GreenScreen\\app\\src\\main\\res\\layout\\main_fragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sevi\\Documents\\GitHub\\HackLboro-Team-3\\GreenScreen\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_plane.xml.flat",
+        "source": "C:\\Users\\Sevi\\Documents\\GitHub\\HackLboro-Team-3\\GreenScreen\\app\\src\\main\\res\\layout\\activity_plane.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sevi\\Documents\\GitHub\\HackLboro-Team-3\\GreenScreen\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Sevi\\Documents\\GitHub\\HackLboro-Team-3\\GreenScreen\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Sevi\\Documents\\GitHub\\HackLboro-Team-3\\GreenScreen\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_your_greenscore.xml.flat",
+        "source": "C:\\Users\\Sevi\\Documents\\GitHub\\HackLboro-Team-3\\GreenScreen\\app\\src\\main\\res\\layout\\activity_your_greenscore.xml"
+    }
+]

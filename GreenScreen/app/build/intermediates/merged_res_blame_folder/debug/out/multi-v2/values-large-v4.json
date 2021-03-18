@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\Sevi\\Documents\\GitHub\\HackLboro-Team-3\\GreenScreen\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-large-v4\\values-large-v4.xml",
+            "outputFile": "E:\\Greenscreen\\green-screen\\GreenScreen\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-large-v4\\values-large-v4.xml",
             "map": [
                 {
                     "source": "C:\\Users\\Sevi\\.gradle\\caches\\transforms-2\\files-2.1\\d478fd87d264bcbb4cbefc372cdf466b\\appcompat-1.2.0\\res\\values-large-v4\\values-large-v4.xml",

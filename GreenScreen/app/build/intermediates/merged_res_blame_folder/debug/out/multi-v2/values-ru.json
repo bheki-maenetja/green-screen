@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\Sevi\\Documents\\GitHub\\HackLboro-Team-3\\GreenScreen\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-ru\\values-ru.xml",
+            "outputFile": "E:\\Greenscreen\\green-screen\\GreenScreen\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-ru\\values-ru.xml",
             "map": [
                 {
                     "source": "C:\\Users\\Sevi\\.gradle\\caches\\transforms-2\\files-2.1\\c180ca0cd134d1e80da54485da9e9649\\jetified-places-2.4.0\\res\\values-ru\\values.xml",

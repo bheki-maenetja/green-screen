@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\Sevi\Documents\GitHub\HackLboro-Team-3\GreenScreen\app\src\main\AndroidManifest.xml:2:1-38:12
-INJECTED from C:\Users\Sevi\Documents\GitHub\HackLboro-Team-3\GreenScreen\app\src\main\AndroidManifest.xml:2:1-38:12
-INJECTED from C:\Users\Sevi\Documents\GitHub\HackLboro-Team-3\GreenScreen\app\src\main\AndroidManifest.xml:2:1-38:12
-INJECTED from C:\Users\Sevi\Documents\GitHub\HackLboro-Team-3\GreenScreen\app\src\main\AndroidManifest.xml:2:1-38:12
+ADDED from E:\Greenscreen\green-screen\GreenScreen\app\src\main\AndroidManifest.xml:2:1-38:12
+INJECTED from E:\Greenscreen\green-screen\GreenScreen\app\src\main\AndroidManifest.xml:2:1-38:12
+INJECTED from E:\Greenscreen\green-screen\GreenScreen\app\src\main\AndroidManifest.xml:2:1-38:12
+INJECTED from E:\Greenscreen\green-screen\GreenScreen\app\src\main\AndroidManifest.xml:2:1-38:12
 MERGED from [androidx.fragment:fragment-ktx:1.3.0] C:\Users\Sevi\.gradle\caches\transforms-2\files-2.1\17dbf60e8f21d123523b7d0e18d53496\jetified-fragment-ktx-1.3.0\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.activity:activity-ktx:1.2.0] C:\Users\Sevi\.gradle\caches\transforms-2\files-2.1\e24566f04ceda11f39c7086fbf5ed0dd\jetified-activity-ktx-1.2.0\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.core:core-ktx:1.3.2] C:\Users\Sevi\.gradle\caches\transforms-2\files-2.1\0029f3b48d83675704c883808f36e539\jetified-core-ktx-1.3.2\AndroidManifest.xml:2:1-9:12
@@ -71,25 +71,25 @@ MERGED from [com.github.Gruzer:simple-gauge-android:0.3.1] C:\Users\Sevi\.gradle
 MERGED from [androidx.annotation:annotation-experimental:1.0.0] C:\Users\Sevi\.gradle\caches\transforms-2\files-2.1\15aa155ad0ec2eb1991fa443b30ecfef\jetified-annotation-experimental-1.0.0\AndroidManifest.xml:17:1-24:12
 MERGED from [com.android.volley:volley:1.1.1] C:\Users\Sevi\.gradle\caches\transforms-2\files-2.1\bf4417699435a57b5fc6c0a5b93c579d\jetified-volley-1.1.1\AndroidManifest.xml:2:1-11:12
 MERGED from [com.google.android.datatransport:transport-api:2.2.0] C:\Users\Sevi\.gradle\caches\transforms-2\files-2.1\3daecaeaf49c35ae32f37547c28f6cfa\jetified-transport-api-2.2.0\AndroidManifest.xml:15:1-22:12
-INJECTED from C:\Users\Sevi\Documents\GitHub\HackLboro-Team-3\GreenScreen\app\src\main\AndroidManifest.xml:2:1-38:12
-INJECTED from C:\Users\Sevi\Documents\GitHub\HackLboro-Team-3\GreenScreen\app\src\main\AndroidManifest.xml:2:1-38:12
-INJECTED from C:\Users\Sevi\Documents\GitHub\HackLboro-Team-3\GreenScreen\app\src\main\AndroidManifest.xml:2:1-38:12
+INJECTED from E:\Greenscreen\green-screen\GreenScreen\app\src\main\AndroidManifest.xml:2:1-38:12
+INJECTED from E:\Greenscreen\green-screen\GreenScreen\app\src\main\AndroidManifest.xml:2:1-38:12
+INJECTED from E:\Greenscreen\green-screen\GreenScreen\app\src\main\AndroidManifest.xml:2:1-38:12
 	package
-		ADDED from C:\Users\Sevi\Documents\GitHub\HackLboro-Team-3\GreenScreen\app\src\main\AndroidManifest.xml:3:5-38
-		INJECTED from C:\Users\Sevi\Documents\GitHub\HackLboro-Team-3\GreenScreen\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\Sevi\Documents\GitHub\HackLboro-Team-3\GreenScreen\app\src\main\AndroidManifest.xml
+		ADDED from E:\Greenscreen\green-screen\GreenScreen\app\src\main\AndroidManifest.xml:3:5-38
+		INJECTED from E:\Greenscreen\green-screen\GreenScreen\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Greenscreen\green-screen\GreenScreen\app\src\main\AndroidManifest.xml
 	android:versionName
-		INJECTED from C:\Users\Sevi\Documents\GitHub\HackLboro-Team-3\GreenScreen\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\Sevi\Documents\GitHub\HackLboro-Team-3\GreenScreen\app\src\main\AndroidManifest.xml:2:1-38:12
-		INJECTED from C:\Users\Sevi\Documents\GitHub\HackLboro-Team-3\GreenScreen\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Greenscreen\green-screen\GreenScreen\app\src\main\AndroidManifest.xml
+		ADDED from E:\Greenscreen\green-screen\GreenScreen\app\src\main\AndroidManifest.xml:2:1-38:12
+		INJECTED from E:\Greenscreen\green-screen\GreenScreen\app\src\main\AndroidManifest.xml
 	android:versionCode
-		INJECTED from C:\Users\Sevi\Documents\GitHub\HackLboro-Team-3\GreenScreen\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\Sevi\Documents\GitHub\HackLboro-Team-3\GreenScreen\app\src\main\AndroidManifest.xml:2:1-38:12
-		INJECTED from C:\Users\Sevi\Documents\GitHub\HackLboro-Team-3\GreenScreen\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Greenscreen\green-screen\GreenScreen\app\src\main\AndroidManifest.xml
+		ADDED from E:\Greenscreen\green-screen\GreenScreen\app\src\main\AndroidManifest.xml:2:1-38:12
+		INJECTED from E:\Greenscreen\green-screen\GreenScreen\app\src\main\AndroidManifest.xml
 	xmlns:android
-		ADDED from C:\Users\Sevi\Documents\GitHub\HackLboro-Team-3\GreenScreen\app\src\main\AndroidManifest.xml:2:11-69
+		ADDED from E:\Greenscreen\green-screen\GreenScreen\app\src\main\AndroidManifest.xml:2:11-69
 application
-ADDED from C:\Users\Sevi\Documents\GitHub\HackLboro-Team-3\GreenScreen\app\src\main\AndroidManifest.xml:5:5-36:19
+ADDED from E:\Greenscreen\green-screen\GreenScreen\app\src\main\AndroidManifest.xml:5:5-36:19
 MERGED from [com.google.android.material:material:1.4.0-alpha01] C:\Users\Sevi\.gradle\caches\transforms-2\files-2.1\8e9de328bb166489689bfcfc77e500c0\material-1.4.0-alpha01\AndroidManifest.xml:22:5-20
 MERGED from [com.google.android.material:material:1.4.0-alpha01] C:\Users\Sevi\.gradle\caches\transforms-2\files-2.1\8e9de328bb166489689bfcfc77e500c0\material-1.4.0-alpha01\AndroidManifest.xml:22:5-20
 MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\Sevi\.gradle\caches\transforms-2\files-2.1\53c83d306e922a17de670d29b8fc1d87\constraintlayout-2.0.4\AndroidManifest.xml:9:5-20
@@ -129,91 +129,91 @@ MERGED from [com.android.volley:volley:1.1.1] C:\Users\Sevi\.gradle\caches\trans
 	android:appComponentFactory
 		ADDED from [androidx.core:core:1.3.2] C:\Users\Sevi\.gradle\caches\transforms-2\files-2.1\5724419690274871c2fb5f6254f4f3e7\core-1.3.2\AndroidManifest.xml:24:18-86
 	android:supportsRtl
-		ADDED from C:\Users\Sevi\Documents\GitHub\HackLboro-Team-3\GreenScreen\app\src\main\AndroidManifest.xml:10:9-35
+		ADDED from E:\Greenscreen\green-screen\GreenScreen\app\src\main\AndroidManifest.xml:10:9-35
 	android:label
-		ADDED from C:\Users\Sevi\Documents\GitHub\HackLboro-Team-3\GreenScreen\app\src\main\AndroidManifest.xml:8:9-41
+		ADDED from E:\Greenscreen\green-screen\GreenScreen\app\src\main\AndroidManifest.xml:8:9-41
 	android:roundIcon
-		ADDED from C:\Users\Sevi\Documents\GitHub\HackLboro-Team-3\GreenScreen\app\src\main\AndroidManifest.xml:9:9-54
+		ADDED from E:\Greenscreen\green-screen\GreenScreen\app\src\main\AndroidManifest.xml:9:9-54
 	android:icon
-		ADDED from C:\Users\Sevi\Documents\GitHub\HackLboro-Team-3\GreenScreen\app\src\main\AndroidManifest.xml:7:9-43
+		ADDED from E:\Greenscreen\green-screen\GreenScreen\app\src\main\AndroidManifest.xml:7:9-43
 	android:allowBackup
-		ADDED from C:\Users\Sevi\Documents\GitHub\HackLboro-Team-3\GreenScreen\app\src\main\AndroidManifest.xml:6:9-35
+		ADDED from E:\Greenscreen\green-screen\GreenScreen\app\src\main\AndroidManifest.xml:6:9-35
 	android:theme
-		ADDED from C:\Users\Sevi\Documents\GitHub\HackLboro-Team-3\GreenScreen\app\src\main\AndroidManifest.xml:11:9-49
+		ADDED from E:\Greenscreen\green-screen\GreenScreen\app\src\main\AndroidManifest.xml:11:9-49
 activity#com.example.greenscreen.vehicles.Walk
-ADDED from C:\Users\Sevi\Documents\GitHub\HackLboro-Team-3\GreenScreen\app\src\main\AndroidManifest.xml:12:9-51
+ADDED from E:\Greenscreen\green-screen\GreenScreen\app\src\main\AndroidManifest.xml:12:9-51
 	android:name
-		ADDED from C:\Users\Sevi\Documents\GitHub\HackLboro-Team-3\GreenScreen\app\src\main\AndroidManifest.xml:12:19-48
+		ADDED from E:\Greenscreen\green-screen\GreenScreen\app\src\main\AndroidManifest.xml:12:19-48
 activity#com.example.greenscreen.vehicles.Car
-ADDED from C:\Users\Sevi\Documents\GitHub\HackLboro-Team-3\GreenScreen\app\src\main\AndroidManifest.xml:13:9-50
+ADDED from E:\Greenscreen\green-screen\GreenScreen\app\src\main\AndroidManifest.xml:13:9-50
 	android:name
-		ADDED from C:\Users\Sevi\Documents\GitHub\HackLboro-Team-3\GreenScreen\app\src\main\AndroidManifest.xml:13:19-47
+		ADDED from E:\Greenscreen\green-screen\GreenScreen\app\src\main\AndroidManifest.xml:13:19-47
 activity#com.example.greenscreen.vehicles.Cycle
-ADDED from C:\Users\Sevi\Documents\GitHub\HackLboro-Team-3\GreenScreen\app\src\main\AndroidManifest.xml:14:9-52
+ADDED from E:\Greenscreen\green-screen\GreenScreen\app\src\main\AndroidManifest.xml:14:9-52
 	android:name
-		ADDED from C:\Users\Sevi\Documents\GitHub\HackLboro-Team-3\GreenScreen\app\src\main\AndroidManifest.xml:14:19-49
+		ADDED from E:\Greenscreen\green-screen\GreenScreen\app\src\main\AndroidManifest.xml:14:19-49
 activity#com.example.greenscreen.vehicles.Plane
-ADDED from C:\Users\Sevi\Documents\GitHub\HackLboro-Team-3\GreenScreen\app\src\main\AndroidManifest.xml:15:9-52
+ADDED from E:\Greenscreen\green-screen\GreenScreen\app\src\main\AndroidManifest.xml:15:9-52
 	android:name
-		ADDED from C:\Users\Sevi\Documents\GitHub\HackLboro-Team-3\GreenScreen\app\src\main\AndroidManifest.xml:15:19-49
+		ADDED from E:\Greenscreen\green-screen\GreenScreen\app\src\main\AndroidManifest.xml:15:19-49
 activity#com.example.greenscreen.vehicles.Bus
-ADDED from C:\Users\Sevi\Documents\GitHub\HackLboro-Team-3\GreenScreen\app\src\main\AndroidManifest.xml:16:9-50
+ADDED from E:\Greenscreen\green-screen\GreenScreen\app\src\main\AndroidManifest.xml:16:9-50
 	android:name
-		ADDED from C:\Users\Sevi\Documents\GitHub\HackLboro-Team-3\GreenScreen\app\src\main\AndroidManifest.xml:16:19-47
+		ADDED from E:\Greenscreen\green-screen\GreenScreen\app\src\main\AndroidManifest.xml:16:19-47
 activity#com.example.greenscreen.vehicles.Train
-ADDED from C:\Users\Sevi\Documents\GitHub\HackLboro-Team-3\GreenScreen\app\src\main\AndroidManifest.xml:17:9-52
+ADDED from E:\Greenscreen\green-screen\GreenScreen\app\src\main\AndroidManifest.xml:17:9-52
 	android:name
-		ADDED from C:\Users\Sevi\Documents\GitHub\HackLboro-Team-3\GreenScreen\app\src\main\AndroidManifest.xml:17:19-49
+		ADDED from E:\Greenscreen\green-screen\GreenScreen\app\src\main\AndroidManifest.xml:17:19-49
 activity#com.example.greenscreen.Scan.ScanBarcode
-ADDED from C:\Users\Sevi\Documents\GitHub\HackLboro-Team-3\GreenScreen\app\src\main\AndroidManifest.xml:18:9-54
+ADDED from E:\Greenscreen\green-screen\GreenScreen\app\src\main\AndroidManifest.xml:18:9-54
 	android:name
-		ADDED from C:\Users\Sevi\Documents\GitHub\HackLboro-Team-3\GreenScreen\app\src\main\AndroidManifest.xml:18:19-51
+		ADDED from E:\Greenscreen\green-screen\GreenScreen\app\src\main\AndroidManifest.xml:18:19-51
 activity#com.example.greenscreen.CaptureActivity
-ADDED from C:\Users\Sevi\Documents\GitHub\HackLboro-Team-3\GreenScreen\app\src\main\AndroidManifest.xml:19:9-53
+ADDED from E:\Greenscreen\green-screen\GreenScreen\app\src\main\AndroidManifest.xml:19:9-53
 	android:name
-		ADDED from C:\Users\Sevi\Documents\GitHub\HackLboro-Team-3\GreenScreen\app\src\main\AndroidManifest.xml:19:19-50
+		ADDED from E:\Greenscreen\green-screen\GreenScreen\app\src\main\AndroidManifest.xml:19:19-50
 activity#com.example.greenscreen.PlanYourTravel
-ADDED from C:\Users\Sevi\Documents\GitHub\HackLboro-Team-3\GreenScreen\app\src\main\AndroidManifest.xml:20:9-52
+ADDED from E:\Greenscreen\green-screen\GreenScreen\app\src\main\AndroidManifest.xml:20:9-52
 	android:name
-		ADDED from C:\Users\Sevi\Documents\GitHub\HackLboro-Team-3\GreenScreen\app\src\main\AndroidManifest.xml:20:19-49
+		ADDED from E:\Greenscreen\green-screen\GreenScreen\app\src\main\AndroidManifest.xml:20:19-49
 activity#com.example.greenscreen.MainActivityTravel
-ADDED from C:\Users\Sevi\Documents\GitHub\HackLboro-Team-3\GreenScreen\app\src\main\AndroidManifest.xml:21:9-56
+ADDED from E:\Greenscreen\green-screen\GreenScreen\app\src\main\AndroidManifest.xml:21:9-56
 	android:name
-		ADDED from C:\Users\Sevi\Documents\GitHub\HackLboro-Team-3\GreenScreen\app\src\main\AndroidManifest.xml:21:19-53
+		ADDED from E:\Greenscreen\green-screen\GreenScreen\app\src\main\AndroidManifest.xml:21:19-53
 activity#com.example.greenscreen.yourGreenscore.yourGreenscore
-ADDED from C:\Users\Sevi\Documents\GitHub\HackLboro-Team-3\GreenScreen\app\src\main\AndroidManifest.xml:22:9-67
+ADDED from E:\Greenscreen\green-screen\GreenScreen\app\src\main\AndroidManifest.xml:22:9-67
 	android:name
-		ADDED from C:\Users\Sevi\Documents\GitHub\HackLboro-Team-3\GreenScreen\app\src\main\AndroidManifest.xml:22:19-64
+		ADDED from E:\Greenscreen\green-screen\GreenScreen\app\src\main\AndroidManifest.xml:22:19-64
 activity#com.example.greenscreen.AfterLogin
-ADDED from C:\Users\Sevi\Documents\GitHub\HackLboro-Team-3\GreenScreen\app\src\main\AndroidManifest.xml:23:9-48
+ADDED from E:\Greenscreen\green-screen\GreenScreen\app\src\main\AndroidManifest.xml:23:9-48
 	android:name
-		ADDED from C:\Users\Sevi\Documents\GitHub\HackLboro-Team-3\GreenScreen\app\src\main\AndroidManifest.xml:23:19-45
+		ADDED from E:\Greenscreen\green-screen\GreenScreen\app\src\main\AndroidManifest.xml:23:19-45
 activity#com.example.greenscreen.ui.login.LoginActivity
-ADDED from C:\Users\Sevi\Documents\GitHub\HackLboro-Team-3\GreenScreen\app\src\main\AndroidManifest.xml:24:9-32:20
+ADDED from E:\Greenscreen\green-screen\GreenScreen\app\src\main\AndroidManifest.xml:24:9-32:20
 	android:label
-		ADDED from C:\Users\Sevi\Documents\GitHub\HackLboro-Team-3\GreenScreen\app\src\main\AndroidManifest.xml:26:13-45
+		ADDED from E:\Greenscreen\green-screen\GreenScreen\app\src\main\AndroidManifest.xml:26:13-45
 	android:name
-		ADDED from C:\Users\Sevi\Documents\GitHub\HackLboro-Team-3\GreenScreen\app\src\main\AndroidManifest.xml:25:13-51
+		ADDED from E:\Greenscreen\green-screen\GreenScreen\app\src\main\AndroidManifest.xml:25:13-51
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from C:\Users\Sevi\Documents\GitHub\HackLboro-Team-3\GreenScreen\app\src\main\AndroidManifest.xml:27:13-31:29
+ADDED from E:\Greenscreen\green-screen\GreenScreen\app\src\main\AndroidManifest.xml:27:13-31:29
 action#android.intent.action.MAIN
-ADDED from C:\Users\Sevi\Documents\GitHub\HackLboro-Team-3\GreenScreen\app\src\main\AndroidManifest.xml:28:17-69
+ADDED from E:\Greenscreen\green-screen\GreenScreen\app\src\main\AndroidManifest.xml:28:17-69
 	android:name
-		ADDED from C:\Users\Sevi\Documents\GitHub\HackLboro-Team-3\GreenScreen\app\src\main\AndroidManifest.xml:28:25-66
+		ADDED from E:\Greenscreen\green-screen\GreenScreen\app\src\main\AndroidManifest.xml:28:25-66
 category#android.intent.category.LAUNCHER
-ADDED from C:\Users\Sevi\Documents\GitHub\HackLboro-Team-3\GreenScreen\app\src\main\AndroidManifest.xml:30:17-77
+ADDED from E:\Greenscreen\green-screen\GreenScreen\app\src\main\AndroidManifest.xml:30:17-77
 	android:name
-		ADDED from C:\Users\Sevi\Documents\GitHub\HackLboro-Team-3\GreenScreen\app\src\main\AndroidManifest.xml:30:27-74
+		ADDED from E:\Greenscreen\green-screen\GreenScreen\app\src\main\AndroidManifest.xml:30:27-74
 activity#com.example.greenscreen.Scan.Pop
-ADDED from C:\Users\Sevi\Documents\GitHub\HackLboro-Team-3\GreenScreen\app\src\main\AndroidManifest.xml:33:9-35:68
+ADDED from E:\Greenscreen\green-screen\GreenScreen\app\src\main\AndroidManifest.xml:33:9-35:68
 	android:theme
-		ADDED from C:\Users\Sevi\Documents\GitHub\HackLboro-Team-3\GreenScreen\app\src\main\AndroidManifest.xml:35:13-65
+		ADDED from E:\Greenscreen\green-screen\GreenScreen\app\src\main\AndroidManifest.xml:35:13-65
 	android:name
-		ADDED from C:\Users\Sevi\Documents\GitHub\HackLboro-Team-3\GreenScreen\app\src\main\AndroidManifest.xml:34:13-37
+		ADDED from E:\Greenscreen\green-screen\GreenScreen\app\src\main\AndroidManifest.xml:34:13-37
 uses-sdk
-INJECTED from C:\Users\Sevi\Documents\GitHub\HackLboro-Team-3\GreenScreen\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from C:\Users\Sevi\Documents\GitHub\HackLboro-Team-3\GreenScreen\app\src\main\AndroidManifest.xml
-INJECTED from C:\Users\Sevi\Documents\GitHub\HackLboro-Team-3\GreenScreen\app\src\main\AndroidManifest.xml
+INJECTED from E:\Greenscreen\green-screen\GreenScreen\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from E:\Greenscreen\green-screen\GreenScreen\app\src\main\AndroidManifest.xml
+INJECTED from E:\Greenscreen\green-screen\GreenScreen\app\src\main\AndroidManifest.xml
 MERGED from [androidx.fragment:fragment-ktx:1.3.0] C:\Users\Sevi\.gradle\caches\transforms-2\files-2.1\17dbf60e8f21d123523b7d0e18d53496\jetified-fragment-ktx-1.3.0\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.fragment:fragment-ktx:1.3.0] C:\Users\Sevi\.gradle\caches\transforms-2\files-2.1\17dbf60e8f21d123523b7d0e18d53496\jetified-fragment-ktx-1.3.0\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.activity:activity-ktx:1.2.0] C:\Users\Sevi\.gradle\caches\transforms-2\files-2.1\e24566f04ceda11f39c7086fbf5ed0dd\jetified-activity-ktx-1.2.0\AndroidManifest.xml:20:5-22:41
@@ -348,16 +348,16 @@ MERGED from [com.android.volley:volley:1.1.1] C:\Users\Sevi\.gradle\caches\trans
 MERGED from [com.android.volley:volley:1.1.1] C:\Users\Sevi\.gradle\caches\transforms-2\files-2.1\bf4417699435a57b5fc6c0a5b93c579d\jetified-volley-1.1.1\AndroidManifest.xml:7:5-43
 MERGED from [com.google.android.datatransport:transport-api:2.2.0] C:\Users\Sevi\.gradle\caches\transforms-2\files-2.1\3daecaeaf49c35ae32f37547c28f6cfa\jetified-transport-api-2.2.0\AndroidManifest.xml:18:5-20:41
 MERGED from [com.google.android.datatransport:transport-api:2.2.0] C:\Users\Sevi\.gradle\caches\transforms-2\files-2.1\3daecaeaf49c35ae32f37547c28f6cfa\jetified-transport-api-2.2.0\AndroidManifest.xml:18:5-20:41
-INJECTED from C:\Users\Sevi\Documents\GitHub\HackLboro-Team-3\GreenScreen\app\src\main\AndroidManifest.xml
-INJECTED from C:\Users\Sevi\Documents\GitHub\HackLboro-Team-3\GreenScreen\app\src\main\AndroidManifest.xml
+INJECTED from E:\Greenscreen\green-screen\GreenScreen\app\src\main\AndroidManifest.xml
+INJECTED from E:\Greenscreen\green-screen\GreenScreen\app\src\main\AndroidManifest.xml
 	android:targetSdkVersion
-		INJECTED from C:\Users\Sevi\Documents\GitHub\HackLboro-Team-3\GreenScreen\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\Sevi\Documents\GitHub\HackLboro-Team-3\GreenScreen\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\Sevi\Documents\GitHub\HackLboro-Team-3\GreenScreen\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Greenscreen\green-screen\GreenScreen\app\src\main\AndroidManifest.xml
+		ADDED from E:\Greenscreen\green-screen\GreenScreen\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Greenscreen\green-screen\GreenScreen\app\src\main\AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from C:\Users\Sevi\Documents\GitHub\HackLboro-Team-3\GreenScreen\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\Sevi\Documents\GitHub\HackLboro-Team-3\GreenScreen\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\Sevi\Documents\GitHub\HackLboro-Team-3\GreenScreen\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Greenscreen\green-screen\GreenScreen\app\src\main\AndroidManifest.xml
+		ADDED from E:\Greenscreen\green-screen\GreenScreen\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Greenscreen\green-screen\GreenScreen\app\src\main\AndroidManifest.xml
 uses-permission#android.permission.ACCESS_FINE_LOCATION
 ADDED from [com.google.android.libraries.places:places:2.4.0] C:\Users\Sevi\.gradle\caches\transforms-2\files-2.1\c180ca0cd134d1e80da54485da9e9649\jetified-places-2.4.0\AndroidManifest.xml:9:5-79
 	android:name

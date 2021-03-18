@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\Sevi\\Documents\\GitHub\\HackLboro-Team-3\\GreenScreen\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-id\\values-id.xml",
+            "outputFile": "E:\\Greenscreen\\green-screen\\GreenScreen\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-id\\values-id.xml",
             "map": [
                 {
                     "source": "C:\\Users\\Sevi\\.gradle\\caches\\transforms-2\\files-2.1\\f3ff1459ac474009e25bccd37a96996e\\jetified-zxing-android-embedded-4.1.0\\res\\values-id\\values-id.xml",

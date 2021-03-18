@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.greenscreen">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.GreenScreen">
+        <activity android:name=".vehicles.Walk" />
+        <activity android:name=".vehicles.Car" />
+        <activity android:name=".vehicles.Cycle" />
+        <activity android:name=".vehicles.Plane" />
+        <activity android:name=".vehicles.Bus" />
+        <activity android:name=".vehicles.Train" />
+        <activity android:name=".Scan.ScanBarcode" />
+        <activity android:name=".CaptureActivity" />
+        <activity android:name=".PlanYourTravel" />
+        <activity android:name=".MainActivityTravel" />
+        <activity android:name=".yourGreenscore.yourGreenscore" />
+        <activity android:name=".AfterLogin" />
+        <activity
+            android:name=".ui.login.LoginActivity"
+            android:label="@string/app_name">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".Scan.Pop"
+            android:theme="@style/Theme.GreenScreen.CustomTheme" />
+    </application>
+
+</manifest>

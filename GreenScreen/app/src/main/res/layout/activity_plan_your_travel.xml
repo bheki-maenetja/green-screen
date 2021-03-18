@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="12dp"
+    android:background="@drawable/gradient_background"
+    android:layout_gravity="center_horizontal"
+    tools:context=".MainActivityTravel"
+    android:orientation="vertical">
+
+    <EditText
+        android:id="@+id/et_source"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="12dp"
+        android:background="@android:drawable/editbox_background"
+        android:hint="Enter Source Location"
+        android:padding="12dp" />
+
+    <EditText
+        android:id="@+id/et_destination"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/et_source"
+        android:layout_marginTop="18dp"
+        android:background="@android:drawable/editbox_background"
+        android:hint="Enter Destination Location"
+        android:padding="12dp" />
+
+    <TextView
+        android:id="@+id/text_view"
+        android:layout_width="384dp"
+        android:layout_height="52dp"
+        android:layout_below="@+id/et_destination"
+        android:layout_alignParentEnd="true"
+        android:layout_gravity="center"
+        android:layout_marginTop="6dp"
+        android:layout_marginEnd="0dp"
+        android:enabled="false"
+        android:textColor="@color/login_form_details"
+        android:textSize="24sp"
+        android:textStyle="bold" />
+
+    <Button
+        android:id="@+id/cycle"
+        android:layout_width="146dp"
+        android:layout_height="122dp"
+        android:layout_below="@+id/et_destination"
+        android:layout_alignParentEnd="true"
+        android:layout_gravity="start"
+        android:layout_marginTop="70dp"
+        android:layout_marginEnd="20dp"
+        android:text="cycle"
+        android:enabled="false"
+        android:textSize="25sp"
+        app:layout_constraintBottom_toTopOf="@+id/or"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintVertical_bias="0.625" />
+
+    <Button
+        android:id="@+id/walk"
+        android:layout_width="147dp"
+        android:layout_height="122dp"
+        android:layout_below="@+id/et_destination"
+        android:layout_alignParentStart="true"
+        android:layout_gravity="start"
+        android:layout_marginStart="20dp"
+        android:layout_marginTop="70dp"
+        android:enabled="false"
+        android:text="walk"
+        android:textSize="25sp"
+        app:layout_constraintBottom_toTopOf="@+id/or"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintVertical_bias="0.625" />
+
+    <Button
+        android:id="@+id/car"
+        android:layout_width="147dp"
+        android:layout_height="122dp"
+        android:layout_below="@+id/cycle"
+        android:layout_alignParentEnd="true"
+        android:layout_gravity="start"
+        android:layout_marginTop="22dp"
+        android:layout_marginEnd="20dp"
+        android:text="car"
+        android:enabled="false"
+        android:textSize="25sp"
+        app:layout_constraintBottom_toTopOf="@+id/or"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintVertical_bias="0.625" />
+
+    <Button
+        android:id="@+id/bus"
+        android:layout_width="147dp"
+        android:layout_height="122dp"
+        android:layout_below="@+id/cycle"
+        android:layout_alignParentStart="true"
+        android:layout_gravity="start"
+        android:layout_marginStart="20dp"
+        android:layout_marginTop="22dp"
+        android:enabled="false"
+        android:text="bus"
+        android:textSize="25sp"
+        app:layout_constraintBottom_toTopOf="@+id/or"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintVertical_bias="0.625" />
+
+    <Button
+        android:id="@+id/train"
+        android:layout_width="147dp"
+        android:layout_height="122dp"
+        android:layout_below="@+id/car"
+        android:layout_alignParentEnd="true"
+        android:layout_gravity="start"
+        android:layout_marginTop="22dp"
+        android:layout_marginEnd="20dp"
+        android:enabled="false"
+        android:text="train"
+        android:textSize="25sp"
+        app:layout_constraintBottom_toTopOf="@+id/or"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintVertical_bias="0.625" />
+
+    <Button
+        android:id="@+id/plane"
+        android:layout_width="147dp"
+        android:layout_height="122dp"
+        android:layout_below="@+id/bus"
+        android:layout_alignParentStart="true"
+        android:layout_gravity="start"
+        android:layout_marginStart="20dp"
+        android:layout_marginTop="22dp"
+        android:enabled="false"
+        android:text="plane"
+        android:textSize="25sp"
+        app:layout_constraintBottom_toTopOf="@+id/or"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintVertical_bias="0.625" />
+
+
+
+</RelativeLayout>

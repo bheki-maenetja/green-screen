@@ -71,7 +71,7 @@
 38-->[com.google.android.gms:play-services-maps:17.0.0] C:\Users\Sevi\.gradle\caches\transforms-2\files-2.1\b6792fcafd77b50ccb7be884368d7c00\jetified-play-services-maps-17.0.0\AndroidManifest.xml:28:9-32
 39
 40    <application
-40-->E:\Greenscreen\green-screen\GreenScreen\app\src\main\AndroidManifest.xml:5:5-36:19
+40-->E:\Greenscreen\green-screen\GreenScreen\app\src\main\AndroidManifest.xml:5:5-35:19
 41        android:allowBackup="true"
 41-->E:\Greenscreen\green-screen\GreenScreen\app\src\main\AndroidManifest.xml:6:9-35
 42        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
@@ -142,102 +142,99 @@
 69-->E:\Greenscreen\green-screen\GreenScreen\app\src\main\AndroidManifest.xml:30:27-74
 70            </intent-filter>
 71        </activity>
-72        <activity
-72-->E:\Greenscreen\green-screen\GreenScreen\app\src\main\AndroidManifest.xml:33:9-35:68
-73            android:name="com.example.greenscreen.Scan.Pop"
-73-->E:\Greenscreen\green-screen\GreenScreen\app\src\main\AndroidManifest.xml:34:13-37
-74            android:theme="@style/Theme.GreenScreen.CustomTheme" />
-74-->E:\Greenscreen\green-screen\GreenScreen\app\src\main\AndroidManifest.xml:35:13-65
-75        <activity
-75-->[com.google.android.libraries.places:places:2.4.0] C:\Users\Sevi\.gradle\caches\transforms-2\files-2.1\c180ca0cd134d1e80da54485da9e9649\jetified-places-2.4.0\AndroidManifest.xml:14:9-20:20
-76            android:name="com.google.android.libraries.places.widget.AutocompleteActivity"
-76-->[com.google.android.libraries.places:places:2.4.0] C:\Users\Sevi\.gradle\caches\transforms-2\files-2.1\c180ca0cd134d1e80da54485da9e9649\jetified-places-2.4.0\AndroidManifest.xml:15:13-91
-77            android:exported="false"
-77-->[com.google.android.libraries.places:places:2.4.0] C:\Users\Sevi\.gradle\caches\transforms-2\files-2.1\c180ca0cd134d1e80da54485da9e9649\jetified-places-2.4.0\AndroidManifest.xml:16:13-37
-78            android:label="@string/places_autocomplete_label"
-78-->[com.google.android.libraries.places:places:2.4.0] C:\Users\Sevi\.gradle\caches\transforms-2\files-2.1\c180ca0cd134d1e80da54485da9e9649\jetified-places-2.4.0\AndroidManifest.xml:17:13-62
-79            android:theme="@style/PlacesAutocompleteOverlay"
-79-->[com.google.android.libraries.places:places:2.4.0] C:\Users\Sevi\.gradle\caches\transforms-2\files-2.1\c180ca0cd134d1e80da54485da9e9649\jetified-places-2.4.0\AndroidManifest.xml:18:13-61
-80            android:windowSoftInputMode="adjustResize" >
-80-->[com.google.android.libraries.places:places:2.4.0] C:\Users\Sevi\.gradle\caches\transforms-2\files-2.1\c180ca0cd134d1e80da54485da9e9649\jetified-places-2.4.0\AndroidManifest.xml:19:13-55
-81        </activity>
-82        <activity
-82-->[com.journeyapps:zxing-android-embedded:4.1.0] C:\Users\Sevi\.gradle\caches\transforms-2\files-2.1\f3ff1459ac474009e25bccd37a96996e\jetified-zxing-android-embedded-4.1.0\AndroidManifest.xml:47:9-53:63
-83            android:name="com.journeyapps.barcodescanner.CaptureActivity"
-83-->[com.journeyapps:zxing-android-embedded:4.1.0] C:\Users\Sevi\.gradle\caches\transforms-2\files-2.1\f3ff1459ac474009e25bccd37a96996e\jetified-zxing-android-embedded-4.1.0\AndroidManifest.xml:48:13-74
-84            android:clearTaskOnLaunch="true"
-84-->[com.journeyapps:zxing-android-embedded:4.1.0] C:\Users\Sevi\.gradle\caches\transforms-2\files-2.1\f3ff1459ac474009e25bccd37a96996e\jetified-zxing-android-embedded-4.1.0\AndroidManifest.xml:49:13-45
-85            android:screenOrientation="sensorLandscape"
-85-->[com.journeyapps:zxing-android-embedded:4.1.0] C:\Users\Sevi\.gradle\caches\transforms-2\files-2.1\f3ff1459ac474009e25bccd37a96996e\jetified-zxing-android-embedded-4.1.0\AndroidManifest.xml:50:13-56
-86            android:stateNotNeeded="true"
-86-->[com.journeyapps:zxing-android-embedded:4.1.0] C:\Users\Sevi\.gradle\caches\transforms-2\files-2.1\f3ff1459ac474009e25bccd37a96996e\jetified-zxing-android-embedded-4.1.0\AndroidManifest.xml:51:13-42
-87            android:theme="@style/zxing_CaptureTheme"
-87-->[com.journeyapps:zxing-android-embedded:4.1.0] C:\Users\Sevi\.gradle\caches\transforms-2\files-2.1\f3ff1459ac474009e25bccd37a96996e\jetified-zxing-android-embedded-4.1.0\AndroidManifest.xml:52:13-54
-88            android:windowSoftInputMode="stateAlwaysHidden" /> <!-- Needs to be explicitly declared on P+ -->
-88-->[com.journeyapps:zxing-android-embedded:4.1.0] C:\Users\Sevi\.gradle\caches\transforms-2\files-2.1\f3ff1459ac474009e25bccd37a96996e\jetified-zxing-android-embedded-4.1.0\AndroidManifest.xml:53:13-60
-89        <uses-library
-89-->[com.google.android.gms:play-services-maps:17.0.0] C:\Users\Sevi\.gradle\caches\transforms-2\files-2.1\b6792fcafd77b50ccb7be884368d7c00\jetified-play-services-maps-17.0.0\AndroidManifest.xml:33:9-35:40
-90            android:name="org.apache.http.legacy"
-90-->[com.google.android.gms:play-services-maps:17.0.0] C:\Users\Sevi\.gradle\caches\transforms-2\files-2.1\b6792fcafd77b50ccb7be884368d7c00\jetified-play-services-maps-17.0.0\AndroidManifest.xml:34:13-50
-91            android:required="false" />
-91-->[com.google.android.gms:play-services-maps:17.0.0] C:\Users\Sevi\.gradle\caches\transforms-2\files-2.1\b6792fcafd77b50ccb7be884368d7c00\jetified-play-services-maps-17.0.0\AndroidManifest.xml:35:13-37
-92
-93        <activity
-93-->[com.google.android.gms:play-services-base:17.2.1] C:\Users\Sevi\.gradle\caches\transforms-2\files-2.1\057c02a2d0187f8b3338b184bf38a65b\jetified-play-services-base-17.2.1\AndroidManifest.xml:23:9-26:75
-94            android:name="com.google.android.gms.common.api.GoogleApiActivity"
-94-->[com.google.android.gms:play-services-base:17.2.1] C:\Users\Sevi\.gradle\caches\transforms-2\files-2.1\057c02a2d0187f8b3338b184bf38a65b\jetified-play-services-base-17.2.1\AndroidManifest.xml:24:13-79
-95            android:exported="false"
-95-->[com.google.android.gms:play-services-base:17.2.1] C:\Users\Sevi\.gradle\caches\transforms-2\files-2.1\057c02a2d0187f8b3338b184bf38a65b\jetified-play-services-base-17.2.1\AndroidManifest.xml:25:13-37
-96            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
-96-->[com.google.android.gms:play-services-base:17.2.1] C:\Users\Sevi\.gradle\caches\transforms-2\files-2.1\057c02a2d0187f8b3338b184bf38a65b\jetified-play-services-base-17.2.1\AndroidManifest.xml:26:13-72
-97
-98        <meta-data
-98-->[com.google.android.gms:play-services-basement:17.2.1] C:\Users\Sevi\.gradle\caches\transforms-2\files-2.1\77785e5414c73d3eeb54aba9b4bc0867\jetified-play-services-basement-17.2.1\AndroidManifest.xml:23:9-25:69
-99            android:name="com.google.android.gms.version"
-99-->[com.google.android.gms:play-services-basement:17.2.1] C:\Users\Sevi\.gradle\caches\transforms-2\files-2.1\77785e5414c73d3eeb54aba9b4bc0867\jetified-play-services-basement-17.2.1\AndroidManifest.xml:24:13-58
-100            android:value="@integer/google_play_services_version" />
-100-->[com.google.android.gms:play-services-basement:17.2.1] C:\Users\Sevi\.gradle\caches\transforms-2\files-2.1\77785e5414c73d3eeb54aba9b4bc0867\jetified-play-services-basement-17.2.1\AndroidManifest.xml:25:13-66
-101
-102        <service
-102-->[com.google.android.datatransport:transport-backend-cct:2.3.0] C:\Users\Sevi\.gradle\caches\transforms-2\files-2.1\3df08dbca3e188c3591122c516c8c78d\jetified-transport-backend-cct-2.3.0\AndroidManifest.xml:29:9-35:19
-103            android:name="com.google.android.datatransport.runtime.backends.TransportBackendDiscovery"
-103-->[com.google.android.datatransport:transport-backend-cct:2.3.0] C:\Users\Sevi\.gradle\caches\transforms-2\files-2.1\3df08dbca3e188c3591122c516c8c78d\jetified-transport-backend-cct-2.3.0\AndroidManifest.xml:30:13-103
-104            android:exported="false" >
-104-->[com.google.android.datatransport:transport-backend-cct:2.3.0] C:\Users\Sevi\.gradle\caches\transforms-2\files-2.1\3df08dbca3e188c3591122c516c8c78d\jetified-transport-backend-cct-2.3.0\AndroidManifest.xml:31:13-37
-105            <meta-data
-105-->[com.google.android.datatransport:transport-backend-cct:2.3.0] C:\Users\Sevi\.gradle\caches\transforms-2\files-2.1\3df08dbca3e188c3591122c516c8c78d\jetified-transport-backend-cct-2.3.0\AndroidManifest.xml:32:13-34:39
-106                android:name="backend:com.google.android.datatransport.cct.CctBackendFactory"
-106-->[com.google.android.datatransport:transport-backend-cct:2.3.0] C:\Users\Sevi\.gradle\caches\transforms-2\files-2.1\3df08dbca3e188c3591122c516c8c78d\jetified-transport-backend-cct-2.3.0\AndroidManifest.xml:33:17-94
-107                android:value="cct" />
-107-->[com.google.android.datatransport:transport-backend-cct:2.3.0] C:\Users\Sevi\.gradle\caches\transforms-2\files-2.1\3df08dbca3e188c3591122c516c8c78d\jetified-transport-backend-cct-2.3.0\AndroidManifest.xml:34:17-36
-108        </service>
-109        <service
-109-->[com.google.android.datatransport:transport-runtime:2.2.3] C:\Users\Sevi\.gradle\caches\transforms-2\files-2.1\4a822964127cc28860a14bcee261a3f5\jetified-transport-runtime-2.2.3\AndroidManifest.xml:26:9-30:19
-110            android:name="com.google.android.datatransport.runtime.scheduling.jobscheduling.JobInfoSchedulerService"
-110-->[com.google.android.datatransport:transport-runtime:2.2.3] C:\Users\Sevi\.gradle\caches\transforms-2\files-2.1\4a822964127cc28860a14bcee261a3f5\jetified-transport-runtime-2.2.3\AndroidManifest.xml:27:13-117
-111            android:exported="false"
-111-->[com.google.android.datatransport:transport-runtime:2.2.3] C:\Users\Sevi\.gradle\caches\transforms-2\files-2.1\4a822964127cc28860a14bcee261a3f5\jetified-transport-runtime-2.2.3\AndroidManifest.xml:28:13-37
-112            android:permission="android.permission.BIND_JOB_SERVICE" >
-112-->[com.google.android.datatransport:transport-runtime:2.2.3] C:\Users\Sevi\.gradle\caches\transforms-2\files-2.1\4a822964127cc28860a14bcee261a3f5\jetified-transport-runtime-2.2.3\AndroidManifest.xml:29:13-69
-113        </service>
-114
-115        <receiver
-115-->[com.google.android.datatransport:transport-runtime:2.2.3] C:\Users\Sevi\.gradle\caches\transforms-2\files-2.1\4a822964127cc28860a14bcee261a3f5\jetified-transport-runtime-2.2.3\AndroidManifest.xml:32:9-34:40
-116            android:name="com.google.android.datatransport.runtime.scheduling.jobscheduling.AlarmManagerSchedulerBroadcastReceiver"
-116-->[com.google.android.datatransport:transport-runtime:2.2.3] C:\Users\Sevi\.gradle\caches\transforms-2\files-2.1\4a822964127cc28860a14bcee261a3f5\jetified-transport-runtime-2.2.3\AndroidManifest.xml:33:13-132
-117            android:exported="false" />
-117-->[com.google.android.datatransport:transport-runtime:2.2.3] C:\Users\Sevi\.gradle\caches\transforms-2\files-2.1\4a822964127cc28860a14bcee261a3f5\jetified-transport-runtime-2.2.3\AndroidManifest.xml:34:13-37
-118
-119        <provider
-119-->[androidx.lifecycle:lifecycle-process:2.1.0] C:\Users\Sevi\.gradle\caches\transforms-2\files-2.1\1677a60738453a95bca32914f1d311c0\jetified-lifecycle-process-2.1.0\AndroidManifest.xml:23:9-27:43
-120            android:name="androidx.lifecycle.ProcessLifecycleOwnerInitializer"
-120-->[androidx.lifecycle:lifecycle-process:2.1.0] C:\Users\Sevi\.gradle\caches\transforms-2\files-2.1\1677a60738453a95bca32914f1d311c0\jetified-lifecycle-process-2.1.0\AndroidManifest.xml:24:13-79
-121            android:authorities="com.example.greenscreen.lifecycle-process"
-121-->[androidx.lifecycle:lifecycle-process:2.1.0] C:\Users\Sevi\.gradle\caches\transforms-2\files-2.1\1677a60738453a95bca32914f1d311c0\jetified-lifecycle-process-2.1.0\AndroidManifest.xml:25:13-69
-122            android:exported="false"
-122-->[androidx.lifecycle:lifecycle-process:2.1.0] C:\Users\Sevi\.gradle\caches\transforms-2\files-2.1\1677a60738453a95bca32914f1d311c0\jetified-lifecycle-process-2.1.0\AndroidManifest.xml:26:13-37
-123            android:multiprocess="true" />
-123-->[androidx.lifecycle:lifecycle-process:2.1.0] C:\Users\Sevi\.gradle\caches\transforms-2\files-2.1\1677a60738453a95bca32914f1d311c0\jetified-lifecycle-process-2.1.0\AndroidManifest.xml:27:13-40
-124    </application>
-125
-126</manifest>
+72        <activity android:name="com.example.greenscreen.Scan.Pop" />
+72-->E:\Greenscreen\green-screen\GreenScreen\app\src\main\AndroidManifest.xml:33:9-34:40
+72-->E:\Greenscreen\green-screen\GreenScreen\app\src\main\AndroidManifest.xml:34:13-37
+73        <activity
+73-->[com.google.android.libraries.places:places:2.4.0] C:\Users\Sevi\.gradle\caches\transforms-2\files-2.1\c180ca0cd134d1e80da54485da9e9649\jetified-places-2.4.0\AndroidManifest.xml:14:9-20:20
+74            android:name="com.google.android.libraries.places.widget.AutocompleteActivity"
+74-->[com.google.android.libraries.places:places:2.4.0] C:\Users\Sevi\.gradle\caches\transforms-2\files-2.1\c180ca0cd134d1e80da54485da9e9649\jetified-places-2.4.0\AndroidManifest.xml:15:13-91
+75            android:exported="false"
+75-->[com.google.android.libraries.places:places:2.4.0] C:\Users\Sevi\.gradle\caches\transforms-2\files-2.1\c180ca0cd134d1e80da54485da9e9649\jetified-places-2.4.0\AndroidManifest.xml:16:13-37
+76            android:label="@string/places_autocomplete_label"
+76-->[com.google.android.libraries.places:places:2.4.0] C:\Users\Sevi\.gradle\caches\transforms-2\files-2.1\c180ca0cd134d1e80da54485da9e9649\jetified-places-2.4.0\AndroidManifest.xml:17:13-62
+77            android:theme="@style/PlacesAutocompleteOverlay"
+77-->[com.google.android.libraries.places:places:2.4.0] C:\Users\Sevi\.gradle\caches\transforms-2\files-2.1\c180ca0cd134d1e80da54485da9e9649\jetified-places-2.4.0\AndroidManifest.xml:18:13-61
+78            android:windowSoftInputMode="adjustResize" >
+78-->[com.google.android.libraries.places:places:2.4.0] C:\Users\Sevi\.gradle\caches\transforms-2\files-2.1\c180ca0cd134d1e80da54485da9e9649\jetified-places-2.4.0\AndroidManifest.xml:19:13-55
+79        </activity>
+80        <activity
+80-->[com.journeyapps:zxing-android-embedded:4.1.0] C:\Users\Sevi\.gradle\caches\transforms-2\files-2.1\f3ff1459ac474009e25bccd37a96996e\jetified-zxing-android-embedded-4.1.0\AndroidManifest.xml:47:9-53:63
+81            android:name="com.journeyapps.barcodescanner.CaptureActivity"
+81-->[com.journeyapps:zxing-android-embedded:4.1.0] C:\Users\Sevi\.gradle\caches\transforms-2\files-2.1\f3ff1459ac474009e25bccd37a96996e\jetified-zxing-android-embedded-4.1.0\AndroidManifest.xml:48:13-74
+82            android:clearTaskOnLaunch="true"
+82-->[com.journeyapps:zxing-android-embedded:4.1.0] C:\Users\Sevi\.gradle\caches\transforms-2\files-2.1\f3ff1459ac474009e25bccd37a96996e\jetified-zxing-android-embedded-4.1.0\AndroidManifest.xml:49:13-45
+83            android:screenOrientation="sensorLandscape"
+83-->[com.journeyapps:zxing-android-embedded:4.1.0] C:\Users\Sevi\.gradle\caches\transforms-2\files-2.1\f3ff1459ac474009e25bccd37a96996e\jetified-zxing-android-embedded-4.1.0\AndroidManifest.xml:50:13-56
+84            android:stateNotNeeded="true"
+84-->[com.journeyapps:zxing-android-embedded:4.1.0] C:\Users\Sevi\.gradle\caches\transforms-2\files-2.1\f3ff1459ac474009e25bccd37a96996e\jetified-zxing-android-embedded-4.1.0\AndroidManifest.xml:51:13-42
+85            android:theme="@style/zxing_CaptureTheme"
+85-->[com.journeyapps:zxing-android-embedded:4.1.0] C:\Users\Sevi\.gradle\caches\transforms-2\files-2.1\f3ff1459ac474009e25bccd37a96996e\jetified-zxing-android-embedded-4.1.0\AndroidManifest.xml:52:13-54
+86            android:windowSoftInputMode="stateAlwaysHidden" /> <!-- Needs to be explicitly declared on P+ -->
+86-->[com.journeyapps:zxing-android-embedded:4.1.0] C:\Users\Sevi\.gradle\caches\transforms-2\files-2.1\f3ff1459ac474009e25bccd37a96996e\jetified-zxing-android-embedded-4.1.0\AndroidManifest.xml:53:13-60
+87        <uses-library
+87-->[com.google.android.gms:play-services-maps:17.0.0] C:\Users\Sevi\.gradle\caches\transforms-2\files-2.1\b6792fcafd77b50ccb7be884368d7c00\jetified-play-services-maps-17.0.0\AndroidManifest.xml:33:9-35:40
+88            android:name="org.apache.http.legacy"
+88-->[com.google.android.gms:play-services-maps:17.0.0] C:\Users\Sevi\.gradle\caches\transforms-2\files-2.1\b6792fcafd77b50ccb7be884368d7c00\jetified-play-services-maps-17.0.0\AndroidManifest.xml:34:13-50
+89            android:required="false" />
+89-->[com.google.android.gms:play-services-maps:17.0.0] C:\Users\Sevi\.gradle\caches\transforms-2\files-2.1\b6792fcafd77b50ccb7be884368d7c00\jetified-play-services-maps-17.0.0\AndroidManifest.xml:35:13-37
+90
+91        <activity
+91-->[com.google.android.gms:play-services-base:17.2.1] C:\Users\Sevi\.gradle\caches\transforms-2\files-2.1\057c02a2d0187f8b3338b184bf38a65b\jetified-play-services-base-17.2.1\AndroidManifest.xml:23:9-26:75
+92            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+92-->[com.google.android.gms:play-services-base:17.2.1] C:\Users\Sevi\.gradle\caches\transforms-2\files-2.1\057c02a2d0187f8b3338b184bf38a65b\jetified-play-services-base-17.2.1\AndroidManifest.xml:24:13-79
+93            android:exported="false"
+93-->[com.google.android.gms:play-services-base:17.2.1] C:\Users\Sevi\.gradle\caches\transforms-2\files-2.1\057c02a2d0187f8b3338b184bf38a65b\jetified-play-services-base-17.2.1\AndroidManifest.xml:25:13-37
+94            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+94-->[com.google.android.gms:play-services-base:17.2.1] C:\Users\Sevi\.gradle\caches\transforms-2\files-2.1\057c02a2d0187f8b3338b184bf38a65b\jetified-play-services-base-17.2.1\AndroidManifest.xml:26:13-72
+95
+96        <meta-data
+96-->[com.google.android.gms:play-services-basement:17.2.1] C:\Users\Sevi\.gradle\caches\transforms-2\files-2.1\77785e5414c73d3eeb54aba9b4bc0867\jetified-play-services-basement-17.2.1\AndroidManifest.xml:23:9-25:69
+97            android:name="com.google.android.gms.version"
+97-->[com.google.android.gms:play-services-basement:17.2.1] C:\Users\Sevi\.gradle\caches\transforms-2\files-2.1\77785e5414c73d3eeb54aba9b4bc0867\jetified-play-services-basement-17.2.1\AndroidManifest.xml:24:13-58
+98            android:value="@integer/google_play_services_version" />
+98-->[com.google.android.gms:play-services-basement:17.2.1] C:\Users\Sevi\.gradle\caches\transforms-2\files-2.1\77785e5414c73d3eeb54aba9b4bc0867\jetified-play-services-basement-17.2.1\AndroidManifest.xml:25:13-66
+99
+100        <service
+100-->[com.google.android.datatransport:transport-backend-cct:2.3.0] C:\Users\Sevi\.gradle\caches\transforms-2\files-2.1\3df08dbca3e188c3591122c516c8c78d\jetified-transport-backend-cct-2.3.0\AndroidManifest.xml:29:9-35:19
+101            android:name="com.google.android.datatransport.runtime.backends.TransportBackendDiscovery"
+101-->[com.google.android.datatransport:transport-backend-cct:2.3.0] C:\Users\Sevi\.gradle\caches\transforms-2\files-2.1\3df08dbca3e188c3591122c516c8c78d\jetified-transport-backend-cct-2.3.0\AndroidManifest.xml:30:13-103
+102            android:exported="false" >
+102-->[com.google.android.datatransport:transport-backend-cct:2.3.0] C:\Users\Sevi\.gradle\caches\transforms-2\files-2.1\3df08dbca3e188c3591122c516c8c78d\jetified-transport-backend-cct-2.3.0\AndroidManifest.xml:31:13-37
+103            <meta-data
+103-->[com.google.android.datatransport:transport-backend-cct:2.3.0] C:\Users\Sevi\.gradle\caches\transforms-2\files-2.1\3df08dbca3e188c3591122c516c8c78d\jetified-transport-backend-cct-2.3.0\AndroidManifest.xml:32:13-34:39
+104                android:name="backend:com.google.android.datatransport.cct.CctBackendFactory"
+104-->[com.google.android.datatransport:transport-backend-cct:2.3.0] C:\Users\Sevi\.gradle\caches\transforms-2\files-2.1\3df08dbca3e188c3591122c516c8c78d\jetified-transport-backend-cct-2.3.0\AndroidManifest.xml:33:17-94
+105                android:value="cct" />
+105-->[com.google.android.datatransport:transport-backend-cct:2.3.0] C:\Users\Sevi\.gradle\caches\transforms-2\files-2.1\3df08dbca3e188c3591122c516c8c78d\jetified-transport-backend-cct-2.3.0\AndroidManifest.xml:34:17-36
+106        </service>
+107        <service
+107-->[com.google.android.datatransport:transport-runtime:2.2.3] C:\Users\Sevi\.gradle\caches\transforms-2\files-2.1\4a822964127cc28860a14bcee261a3f5\jetified-transport-runtime-2.2.3\AndroidManifest.xml:26:9-30:19
+108            android:name="com.google.android.datatransport.runtime.scheduling.jobscheduling.JobInfoSchedulerService"
+108-->[com.google.android.datatransport:transport-runtime:2.2.3] C:\Users\Sevi\.gradle\caches\transforms-2\files-2.1\4a822964127cc28860a14bcee261a3f5\jetified-transport-runtime-2.2.3\AndroidManifest.xml:27:13-117
+109            android:exported="false"
+109-->[com.google.android.datatransport:transport-runtime:2.2.3] C:\Users\Sevi\.gradle\caches\transforms-2\files-2.1\4a822964127cc28860a14bcee261a3f5\jetified-transport-runtime-2.2.3\AndroidManifest.xml:28:13-37
+110            android:permission="android.permission.BIND_JOB_SERVICE" >
+110-->[com.google.android.datatransport:transport-runtime:2.2.3] C:\Users\Sevi\.gradle\caches\transforms-2\files-2.1\4a822964127cc28860a14bcee261a3f5\jetified-transport-runtime-2.2.3\AndroidManifest.xml:29:13-69
+111        </service>
+112
+113        <receiver
+113-->[com.google.android.datatransport:transport-runtime:2.2.3] C:\Users\Sevi\.gradle\caches\transforms-2\files-2.1\4a822964127cc28860a14bcee261a3f5\jetified-transport-runtime-2.2.3\AndroidManifest.xml:32:9-34:40
+114            android:name="com.google.android.datatransport.runtime.scheduling.jobscheduling.AlarmManagerSchedulerBroadcastReceiver"
+114-->[com.google.android.datatransport:transport-runtime:2.2.3] C:\Users\Sevi\.gradle\caches\transforms-2\files-2.1\4a822964127cc28860a14bcee261a3f5\jetified-transport-runtime-2.2.3\AndroidManifest.xml:33:13-132
+115            android:exported="false" />
+115-->[com.google.android.datatransport:transport-runtime:2.2.3] C:\Users\Sevi\.gradle\caches\transforms-2\files-2.1\4a822964127cc28860a14bcee261a3f5\jetified-transport-runtime-2.2.3\AndroidManifest.xml:34:13-37
+116
+117        <provider
+117-->[androidx.lifecycle:lifecycle-process:2.1.0] C:\Users\Sevi\.gradle\caches\transforms-2\files-2.1\1677a60738453a95bca32914f1d311c0\jetified-lifecycle-process-2.1.0\AndroidManifest.xml:23:9-27:43
+118            android:name="androidx.lifecycle.ProcessLifecycleOwnerInitializer"
+118-->[androidx.lifecycle:lifecycle-process:2.1.0] C:\Users\Sevi\.gradle\caches\transforms-2\files-2.1\1677a60738453a95bca32914f1d311c0\jetified-lifecycle-process-2.1.0\AndroidManifest.xml:24:13-79
+119            android:authorities="com.example.greenscreen.lifecycle-process"
+119-->[androidx.lifecycle:lifecycle-process:2.1.0] C:\Users\Sevi\.gradle\caches\transforms-2\files-2.1\1677a60738453a95bca32914f1d311c0\jetified-lifecycle-process-2.1.0\AndroidManifest.xml:25:13-69
+120            android:exported="false"
+120-->[androidx.lifecycle:lifecycle-process:2.1.0] C:\Users\Sevi\.gradle\caches\transforms-2\files-2.1\1677a60738453a95bca32914f1d311c0\jetified-lifecycle-process-2.1.0\AndroidManifest.xml:26:13-37
+121            android:multiprocess="true" />
+121-->[androidx.lifecycle:lifecycle-process:2.1.0] C:\Users\Sevi\.gradle\caches\transforms-2\files-2.1\1677a60738453a95bca32914f1d311c0\jetified-lifecycle-process-2.1.0\AndroidManifest.xml:27:13-40
+122    </application>
+123
+124</manifest>

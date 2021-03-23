@@ -22,7 +22,7 @@
         android:layout_marginEnd="32dp"
         android:layout_marginBottom="40dp"
         android:contentDescription="@string/todo"
-        android:src="@mipmap/ic_launcher_logo_good_foreground"
+        android:src="@mipmap/ic_launcher_logo_final_foreground"
         app:layout_constraintBottom_toTopOf="@+id/Greenscore"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"

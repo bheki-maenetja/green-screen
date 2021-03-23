@@ -69,9 +69,7 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity
-            android:name="com.example.greenscreen.Scan.Pop"
-            android:theme="@style/Theme.GreenScreen.CustomTheme" />
+        <activity android:name="com.example.greenscreen.Scan.Pop" />
         <activity
             android:name="com.google.android.libraries.places.widget.AutocompleteActivity"
             android:exported="false"

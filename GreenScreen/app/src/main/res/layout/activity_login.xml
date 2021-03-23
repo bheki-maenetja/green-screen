@@ -19,7 +19,7 @@
         android:layout_marginTop="68dp"
         android:layout_marginEnd="32dp"
         android:contentDescription="@string/todo"
-        android:src="@mipmap/ic_launcher_logo_good_foreground"
+        android:src="@mipmap/ic_launcher_logo_final_foreground"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"

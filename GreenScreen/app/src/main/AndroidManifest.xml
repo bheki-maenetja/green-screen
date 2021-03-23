@@ -31,8 +31,7 @@
             </intent-filter>
         </activity>
         <activity
-            android:name=".Scan.Pop"
-            android:theme="@style/Theme.GreenScreen.CustomTheme" />
+            android:name=".Scan.Pop" />
     </application>
 
 </manifest>

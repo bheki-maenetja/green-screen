@@ -4,9 +4,11 @@ import android.app.Activity;
 import android.os.Bundle;
 import android.util.DisplayMetrics;
 
+import androidx.appcompat.app.AppCompatActivity;
+
 import com.example.greenscreen.R;
 
-public class Pop extends Activity {
+public class Pop extends AppCompatActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState){
@@ -14,12 +16,6 @@ public class Pop extends Activity {
         setContentView(R.layout.pop_window);
 
 
-        DisplayMetrics dm = new DisplayMetrics();
-        getWindowManager().getDefaultDisplay().getMetrics(dm);
 
-        int width = dm.widthPixels;
-        int height = dm.heightPixels;
-
-        getWindow().setLayout((int)(width*.8),(int)(height*.9));
     }
 }

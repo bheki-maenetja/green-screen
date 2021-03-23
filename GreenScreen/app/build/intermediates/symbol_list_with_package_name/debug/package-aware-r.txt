@@ -2197,6 +2197,7 @@ drawable btn_radio_on_mtrl
 drawable btn_radio_on_to_off_mtrl_animation
 drawable clipart1572648
 drawable clipart3011315
+drawable coffe
 drawable common_full_open_on_phone
 drawable common_google_signin_btn_icon_dark
 drawable common_google_signin_btn_icon_dark_focused
@@ -2228,6 +2229,7 @@ drawable ic_clock_black_24dp
 drawable ic_keyboard_black_24dp
 drawable ic_launcher_background
 drawable ic_launcher_foreground
+drawable ic_launcher_logo_final_background
 drawable ic_launcher_logo_good_background
 drawable ic_mtrl_checked_circle
 drawable ic_mtrl_chip_checked_black
@@ -2506,6 +2508,7 @@ id ignoreRequest
 id image
 id imageView
 id imageView2
+id imageView3
 id imageView4
 id info
 id inside
@@ -2737,6 +2740,9 @@ id textStart
 id textTop
 id textView
 id textView2
+id textView3
+id textView4
+id textView5
 id text_input_end_icon
 id text_input_error_icon
 id text_input_start_icon
@@ -2984,6 +2990,9 @@ layout text_view_without_line_height
 layout zxing_barcode_scanner
 layout zxing_capture
 mipmap ic_launcher
+mipmap ic_launcher_logo_final
+mipmap ic_launcher_logo_final_foreground
+mipmap ic_launcher_logo_final_round
 mipmap ic_launcher_logo_good_foreground
 mipmap ic_launcher_round
 plurals mtrl_badge_content_description
@@ -3124,6 +3133,7 @@ string mtrl_picker_toggle_to_day_selection
 string mtrl_picker_toggle_to_text_input_mode
 string mtrl_picker_toggle_to_year_selection
 string or
+string palm_oil1
 string password_toggle_content_description
 string path_password_eye
 string path_password_eye_mask_strike_through

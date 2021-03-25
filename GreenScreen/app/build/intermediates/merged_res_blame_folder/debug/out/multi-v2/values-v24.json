@@ -4,7 +4,7 @@
             "outputFile": "E:\\Greenscreen\\green-screen\\GreenScreen\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v24\\values-v24.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\Sevi\\.gradle\\caches\\transforms-2\\files-2.1\\d478fd87d264bcbb4cbefc372cdf466b\\appcompat-1.2.0\\res\\values-v24\\values-v24.xml",
+                    "source": "C:\\Users\\Sevi\\.gradle\\caches\\transforms-2\\files-2.1\\951145b440114b8d85a251c4aab87b05\\appcompat-1.2.0\\res\\values-v24\\values-v24.xml",
                     "from": {
                         "startLines": "2,3",
                         "startColumns": "4,4",
@@ -14,7 +14,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\Sevi\\.gradle\\caches\\transforms-2\\files-2.1\\bdada5da95230ad1a6056e93bb66ca97\\media-1.0.0\\res\\values-v24\\values-v24.xml",
+                    "source": "C:\\Users\\Sevi\\.gradle\\caches\\transforms-2\\files-2.1\\4fc6f447c5fbf9e37636c3971d996d54\\media-1.0.0\\res\\values-v24\\values-v24.xml",
                     "from": {
                         "startLines": "2,3,4,5",
                         "startColumns": "4,4,4,4",

@@ -1,9 +1,9 @@
 <component name="libraryTable">
   <library name="Gradle: com.github.Gruzer:simple-gauge-android:0.3.1@aar">
     <CLASSES>
-      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/71e2eea0745dd6abe2d8e25cd5a21de1/jetified-simple-gauge-android-0.3.1/res" />
-      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/71e2eea0745dd6abe2d8e25cd5a21de1/jetified-simple-gauge-android-0.3.1/AndroidManifest.xml" />
-      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/71e2eea0745dd6abe2d8e25cd5a21de1/jetified-simple-gauge-android-0.3.1/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/b37e112abfba4646fb67a50e2ff6e861/jetified-simple-gauge-android-0.3.1/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/b37e112abfba4646fb67a50e2ff6e861/jetified-simple-gauge-android-0.3.1/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/b37e112abfba4646fb67a50e2ff6e861/jetified-simple-gauge-android-0.3.1/AndroidManifest.xml" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>

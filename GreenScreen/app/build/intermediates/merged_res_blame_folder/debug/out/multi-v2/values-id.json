@@ -4,7 +4,7 @@
             "outputFile": "E:\\Greenscreen\\green-screen\\GreenScreen\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-id\\values-id.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\Sevi\\.gradle\\caches\\transforms-2\\files-2.1\\f3ff1459ac474009e25bccd37a96996e\\jetified-zxing-android-embedded-4.1.0\\res\\values-id\\values-id.xml",
+                    "source": "C:\\Users\\Sevi\\.gradle\\caches\\transforms-2\\files-2.1\\3ab149c7c36675e851ee4bb87e8127d6\\jetified-zxing-android-embedded-4.1.0\\res\\values-id\\values-id.xml",
                     "from": {
                         "startLines": "2,3,4,5",
                         "startColumns": "4,4,4,4",

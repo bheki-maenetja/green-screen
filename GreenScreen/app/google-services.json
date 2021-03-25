@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "340935171742",
+    "project_id": "greenscreen-307219",
+    "storage_bucket": "greenscreen-307219.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:340935171742:android:311b48040e7b399f46e58f",
+        "android_client_info": {
+          "package_name": "com.example.greenscreen"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "340935171742-1rm0d5pg78sg2lvi79paiejt271o9e26.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADFi8eN3DHUjgzFxiy6r2ImNgze_KQEEI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "340935171742-1rm0d5pg78sg2lvi79paiejt271o9e26.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

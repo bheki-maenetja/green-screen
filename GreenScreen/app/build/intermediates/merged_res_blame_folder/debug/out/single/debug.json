@@ -176,6 +176,10 @@
         "source": "E:\\Greenscreen\\green-screen\\GreenScreen\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
     },
     {
+        "merged": "E:\\Greenscreen\\green-screen\\GreenScreen\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_firebase_ui.xml.flat",
+        "source": "E:\\Greenscreen\\green-screen\\GreenScreen\\app\\src\\main\\res\\layout\\activity_firebase_ui.xml"
+    },
+    {
         "merged": "E:\\Greenscreen\\green-screen\\GreenScreen\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_plan_your_travel.xml.flat",
         "source": "E:\\Greenscreen\\green-screen\\GreenScreen\\app\\src\\main\\res\\layout\\activity_plan_your_travel.xml"
     },
@@ -192,12 +196,12 @@
         "source": "E:\\Greenscreen\\green-screen\\GreenScreen\\app\\src\\main\\res\\layout\\activity_train.xml"
     },
     {
-        "merged": "E:\\Greenscreen\\green-screen\\GreenScreen\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_logo_good_foreground.png.flat",
-        "source": "E:\\Greenscreen\\green-screen\\GreenScreen\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_logo_good_foreground.png"
-    },
-    {
         "merged": "E:\\Greenscreen\\green-screen\\GreenScreen\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_launcher_logo_good_background.xml.flat",
         "source": "E:\\Greenscreen\\green-screen\\GreenScreen\\app\\src\\main\\res\\drawable\\ic_launcher_logo_good_background.xml"
+    },
+    {
+        "merged": "E:\\Greenscreen\\green-screen\\GreenScreen\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_logo_good_foreground.png.flat",
+        "source": "E:\\Greenscreen\\green-screen\\GreenScreen\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_logo_good_foreground.png"
     },
     {
         "merged": "E:\\Greenscreen\\green-screen\\GreenScreen\\app\\build\\intermediates\\res\\merged\\debug\\drawable_indicator.png.flat",

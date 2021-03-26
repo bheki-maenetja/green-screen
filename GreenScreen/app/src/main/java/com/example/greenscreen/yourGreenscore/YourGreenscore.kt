@@ -1,10 +1,11 @@
 package com.example.greenscreen.yourGreenscore
 
 import android.graphics.Color
-import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import androidx.appcompat.app.AppCompatActivity
 import com.ekn.gruzer.gaugelibrary.Range
 import com.example.greenscreen.R
+import com.example.greenscreen.vehicles.Car
 import kotlinx.android.synthetic.main.activity_your_greenscore.*
 
 class yourGreenscore : AppCompatActivity() {
@@ -46,7 +47,7 @@ class yourGreenscore : AppCompatActivity() {
         halfGauge.maxValueTextColor = Color.GREEN
 
 
-
+        halfGauge.value = Car.greenScore
 
         half_gauge_update_btn.setOnClickListener {
             halfGauge.value = half_gauge_value_ed.text.toString().toDouble()

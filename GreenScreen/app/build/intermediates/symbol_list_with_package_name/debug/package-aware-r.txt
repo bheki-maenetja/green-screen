@@ -2605,7 +2605,6 @@ id ignore
 id ignoreRequest
 id image
 id imageView
-id imageView2
 id imageView3
 id imageView4
 id imageView5
@@ -2843,6 +2842,7 @@ id tag_screen_reader_focusable
 id tag_transition_group
 id tag_unhandled_key_event_manager
 id tag_unhandled_key_listeners
+id take_btn
 id terrain
 id test_checkbox_android_button_tint
 id test_checkbox_app_button_tint

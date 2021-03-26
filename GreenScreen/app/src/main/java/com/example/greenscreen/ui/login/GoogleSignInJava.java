@@ -14,6 +14,7 @@ import com.example.greenscreen.AfterLogin;
 import com.example.greenscreen.R;
 import com.example.greenscreen.Scan.Pop;
 import com.example.greenscreen.Scan.ScanBarcode;
+import com.example.greenscreen.yourGreenscore.calculateDate;
 import com.firebase.ui.auth.AuthUI;
 import com.google.android.gms.auth.api.signin.GoogleSignIn;
 import com.google.android.gms.auth.api.signin.GoogleSignInAccount;
@@ -49,8 +50,11 @@ public class GoogleSignInJava extends Activity implements View.OnClickListener {
 
     private GoogleSignInClient mGoogleSignInClient;
 
+
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
+
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_login);
         // [START config_signin]

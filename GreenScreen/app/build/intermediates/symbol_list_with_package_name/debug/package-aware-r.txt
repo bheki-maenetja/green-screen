@@ -2585,8 +2585,6 @@ id grouping
 id groups
 id guideline
 id halfGauge
-id half_gauge_update_btn
-id half_gauge_value_ed
 id header
 id header_text
 id header_title
@@ -2606,7 +2604,6 @@ id ignoreRequest
 id image
 id imageView
 id imageView3
-id imageView4
 id imageView5
 id info
 id inside
@@ -2855,6 +2852,7 @@ id textSpacerNoButtons
 id textSpacerNoTitle
 id textStart
 id textTop
+id textView
 id textView2
 id textView3
 id textView4

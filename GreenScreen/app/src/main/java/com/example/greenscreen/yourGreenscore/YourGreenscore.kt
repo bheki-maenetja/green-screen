@@ -60,7 +60,7 @@ class yourGreenscore : AppCompatActivity() {
         val seconds = diff / 1000
         val minutes = seconds / 60
         val hours = minutes / 60
-        val days = (hours / 24) +5
+        val days = (hours / 24) +1
 
         halfGauge.value = (halfGauge.value + Car.greenScore + Train.greenScore + Cycle.greenScore + Bus.greenScore + Walk.greenScore + Plane.greenScore)/days
 

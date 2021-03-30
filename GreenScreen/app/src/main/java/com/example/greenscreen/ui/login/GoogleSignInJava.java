@@ -9,6 +9,7 @@ import android.widget.Button;
 import android.widget.Toast;
 
 import androidx.annotation.NonNull;
+import androidx.appcompat.app.AppCompatActivity;
 
 import com.example.greenscreen.AfterLogin;
 import com.example.greenscreen.R;
@@ -38,7 +39,7 @@ import java.util.List;
 /**
  * Demonstrate Firebase Authentication using a Google ID Token.
  */
-public class GoogleSignInJava extends Activity implements View.OnClickListener {
+public class GoogleSignInJava extends AppCompatActivity implements View.OnClickListener {
 
     SignInButton signInButton;
     Button guest;
